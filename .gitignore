@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local env files
+.env
+
+# Local outputs
+data/calls/*
+data/reports/*
+!data/calls/.gitkeep
+!data/reports/.gitkeep
+
+# IDE
+.vscode/
