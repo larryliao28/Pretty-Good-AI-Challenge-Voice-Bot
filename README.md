@@ -125,6 +125,8 @@ Per call:
 Aggregate:
 - data/reports/bug-report.json
 
+Note: recording URLs stored in committed `data/calls/*/session.json` artifacts have the Twilio account identifier redacted (for example `AC_REDACTED`) to satisfy GitHub push-protection secret scanning.
+
 
 ## Important constraints
 - The implementation validates destination number and only allows +18054398008.
