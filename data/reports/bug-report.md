@@ -1,7 +1,7 @@
 # Bug Report (Curated High-Impact Findings)
 
 ## Scope
-- Calls reviewed: 13 completed calls with recordings and canonical transcripts.
+- Calls reviewed: 12 completed calls with recordings and canonical transcripts.
 - Evidence sources: `data/calls/*/transcript-<call_sid>.txt` plus existing JSON findings.
 - Method: prioritize safety, task-completion, and trust-impacting defects over minor phrasing issues.
 
