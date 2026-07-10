@@ -135,3 +135,7 @@ Aggregate:
 - If some calls remain queued or missing mp3 files, run reconcile-calls before transcript/report generation.
 - Always run CLI commands with the project virtual environment activated.
 
+## Loom Videos
+- LLM debugging session: https://www.loom.com/share/f0d942d4213949daa404098818291c73
+- Project overview: https://www.loom.com/share/3dab27bb43ac4b488fe43cfa6b783ce1
+
