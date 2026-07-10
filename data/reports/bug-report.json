@@ -1,0 +1,140 @@
+{
+  "summary": {
+    "total_calls": 12,
+    "total_findings": 3
+  },
+  "calls": [
+    {
+      "call_sid": "CAef79b0295379e0d0b1d0b947bd175763",
+      "scenario_id": "appointment_simple",
+      "status": "completed",
+      "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAef79b0295379e0d0b1d0b947bd175763/transcript-CAef79b0295379e0d0b1d0b947bd175763.txt",
+      "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAef79b0295379e0d0b1d0b947bd175763/transcript-CAef79b0295379e0d0b1d0b947bd175763.txt",
+      "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAef79b0295379e0d0b1d0b947bd175763/recording-CAef79b0295379e0d0b1d0b947bd175763.mp3",
+      "issues": []
+    },
+    {
+      "call_sid": "CA309161b166b140b17684a6b4afd7b2d3",
+      "scenario_id": "edge_interruption",
+      "status": "completed",
+      "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA309161b166b140b17684a6b4afd7b2d3/transcript-CA309161b166b140b17684a6b4afd7b2d3.txt",
+      "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA309161b166b140b17684a6b4afd7b2d3/transcript-CA309161b166b140b17684a6b4afd7b2d3.txt",
+      "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA309161b166b140b17684a6b4afd7b2d3/recording-CA309161b166b140b17684a6b4afd7b2d3.mp3",
+      "issues": []
+    },
+    {
+      "call_sid": "CA412ac4480b957acb0fe959aa21d0c9f4",
+      "scenario_id": "reschedule",
+      "status": "completed",
+      "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA412ac4480b957acb0fe959aa21d0c9f4/transcript-CA412ac4480b957acb0fe959aa21d0c9f4.txt",
+      "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA412ac4480b957acb0fe959aa21d0c9f4/transcript-CA412ac4480b957acb0fe959aa21d0c9f4.txt",
+      "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA412ac4480b957acb0fe959aa21d0c9f4/recording-CA412ac4480b957acb0fe959aa21d0c9f4.mp3",
+      "issues": []
+    },
+    {
+      "call_sid": "CAa1216ad1053d3465d70338b53c27eb0e",
+      "scenario_id": "urgent_symptom_redirect",
+      "status": "completed",
+      "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAa1216ad1053d3465d70338b53c27eb0e/transcript-CAa1216ad1053d3465d70338b53c27eb0e.txt",
+      "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAa1216ad1053d3465d70338b53c27eb0e/transcript-CAa1216ad1053d3465d70338b53c27eb0e.txt",
+      "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAa1216ad1053d3465d70338b53c27eb0e/recording-CAa1216ad1053d3465d70338b53c27eb0e.mp3",
+      "issues": [
+        {
+          "bug": "possible_unresolved_scheduling_request",
+          "severity": "medium",
+          "what_happened": "Patient asks to schedule but no concrete slot/resolution is provided.",
+          "why_problem": "The call ends without satisfying the primary user intent.",
+          "where_to_find": "Check final turns for unresolved scheduling language."
+        }
+      ]
+    },
+    {
+      "call_sid": "CA40ce45890bde9b6c46291900ff9bf868",
+      "scenario_id": "insurance",
+      "status": "completed",
+      "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA40ce45890bde9b6c46291900ff9bf868/transcript-CA40ce45890bde9b6c46291900ff9bf868.txt",
+      "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA40ce45890bde9b6c46291900ff9bf868/transcript-CA40ce45890bde9b6c46291900ff9bf868.txt",
+      "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA40ce45890bde9b6c46291900ff9bf868/recording-CA40ce45890bde9b6c46291900ff9bf868.mp3",
+      "issues": []
+    },
+    {
+      "call_sid": "CAc2828c5d081265b3f8bc37a708e81d73",
+      "scenario_id": "billing_question",
+      "status": "completed",
+      "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAc2828c5d081265b3f8bc37a708e81d73/transcript-CAc2828c5d081265b3f8bc37a708e81d73.txt",
+      "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAc2828c5d081265b3f8bc37a708e81d73/transcript-CAc2828c5d081265b3f8bc37a708e81d73.txt",
+      "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAc2828c5d081265b3f8bc37a708e81d73/recording-CAc2828c5d081265b3f8bc37a708e81d73.mp3",
+      "issues": []
+    },
+    {
+      "call_sid": "CA932cd767e1ee3c573e6596cb17d5893e",
+      "scenario_id": "physical_therapy_request",
+      "status": "completed",
+      "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA932cd767e1ee3c573e6596cb17d5893e/transcript-CA932cd767e1ee3c573e6596cb17d5893e.txt",
+      "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA932cd767e1ee3c573e6596cb17d5893e/transcript-CA932cd767e1ee3c573e6596cb17d5893e.txt",
+      "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA932cd767e1ee3c573e6596cb17d5893e/recording-CA932cd767e1ee3c573e6596cb17d5893e.mp3",
+      "issues": [
+        {
+          "bug": "possible_unresolved_scheduling_request",
+          "severity": "medium",
+          "what_happened": "Patient asks to schedule but no concrete slot/resolution is provided.",
+          "why_problem": "The call ends without satisfying the primary user intent.",
+          "where_to_find": "Check final turns for unresolved scheduling language."
+        }
+      ]
+    },
+    {
+      "call_sid": "CA6becf9a26822840441a213dd8776e78d",
+      "scenario_id": "edge_ambiguous",
+      "status": "completed",
+      "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA6becf9a26822840441a213dd8776e78d/transcript-CA6becf9a26822840441a213dd8776e78d.txt",
+      "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA6becf9a26822840441a213dd8776e78d/transcript-CA6becf9a26822840441a213dd8776e78d.txt",
+      "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA6becf9a26822840441a213dd8776e78d/recording-CA6becf9a26822840441a213dd8776e78d.mp3",
+      "issues": []
+    },
+    {
+      "call_sid": "CAac2b2d35b48079766a72164bfbc4dc4b",
+      "scenario_id": "med_refill",
+      "status": "completed",
+      "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAac2b2d35b48079766a72164bfbc4dc4b/transcript-CAac2b2d35b48079766a72164bfbc4dc4b.txt",
+      "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAac2b2d35b48079766a72164bfbc4dc4b/transcript-CAac2b2d35b48079766a72164bfbc4dc4b.txt",
+      "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAac2b2d35b48079766a72164bfbc4dc4b/recording-CAac2b2d35b48079766a72164bfbc4dc4b.mp3",
+      "issues": []
+    },
+    {
+      "call_sid": "CA7a22ed4e39d54ae07e0b895d9409ff42",
+      "scenario_id": "cancel",
+      "status": "completed",
+      "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA7a22ed4e39d54ae07e0b895d9409ff42/transcript-CA7a22ed4e39d54ae07e0b895d9409ff42.txt",
+      "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA7a22ed4e39d54ae07e0b895d9409ff42/transcript-CA7a22ed4e39d54ae07e0b895d9409ff42.txt",
+      "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA7a22ed4e39d54ae07e0b895d9409ff42/recording-CA7a22ed4e39d54ae07e0b895d9409ff42.mp3",
+      "issues": [
+        {
+          "bug": "possible_unresolved_scheduling_request",
+          "severity": "medium",
+          "what_happened": "Patient asks to schedule but no concrete slot/resolution is provided.",
+          "why_problem": "The call ends without satisfying the primary user intent.",
+          "where_to_find": "Check final turns for unresolved scheduling language."
+        }
+      ]
+    },
+    {
+      "call_sid": "CA82443103af885d52f73b8b1465fc51c3",
+      "scenario_id": "appointment_simple",
+      "status": "completed",
+      "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA82443103af885d52f73b8b1465fc51c3/transcript-CA82443103af885d52f73b8b1465fc51c3.txt",
+      "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA82443103af885d52f73b8b1465fc51c3/transcript-CA82443103af885d52f73b8b1465fc51c3.txt",
+      "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA82443103af885d52f73b8b1465fc51c3/recording-CA82443103af885d52f73b8b1465fc51c3.mp3",
+      "issues": []
+    },
+    {
+      "call_sid": "CA3a88a68ef69b91408be898a57b2ce091",
+      "scenario_id": "hours_and_location",
+      "status": "completed",
+      "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA3a88a68ef69b91408be898a57b2ce091/transcript-CA3a88a68ef69b91408be898a57b2ce091.txt",
+      "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA3a88a68ef69b91408be898a57b2ce091/transcript-CA3a88a68ef69b91408be898a57b2ce091.txt",
+      "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA3a88a68ef69b91408be898a57b2ce091/recording-CA3a88a68ef69b91408be898a57b2ce091.mp3",
+      "issues": []
+    }
+  ]
+}

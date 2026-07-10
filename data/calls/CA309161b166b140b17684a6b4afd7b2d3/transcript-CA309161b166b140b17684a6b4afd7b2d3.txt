@@ -1,0 +1,43 @@
+[00:00.00 - 00:03.20] SEGMENT 1: This call may be recorded for quality and training purposes.
+[00:03.78 - 00:05.72] SEGMENT 2: Para Español, oprima el 2.
+[00:06.48 - 00:10.90] SEGMENT 3: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:11.50 - 00:12.54] SEGMENT 4: How may I help you today?
+[00:13.34 - 00:16.62] SEGMENT 5: Sorry to jump in, but what is the soonest appointment you have?
+[00:22.56 - 00:24.64] SEGMENT 6: I see you're calling from the number we have on file.
+[00:25.12 - 00:26.36] SEGMENT 7: Am I speaking with Alex?
+[00:30.00 - 00:33.28] SEGMENT 8: Yes, that's me.
+[00:33.96 - 00:34.68] SEGMENT 9: Can you tell me...
+[00:34.68 - 00:35.84] SEGMENT 10: Please provide your date of birth.
+[00:39.56 - 00:41.80] SEGMENT 11: Could you please tell me your full date of birth?
+[00:42.40 - 00:44.56] SEGMENT 12: It's June 12, 1990.
+[00:45.16 - 00:46.92] SEGMENT 13: What's the soonest appointment you have?
+[00:50.36 - 00:51.00] SEGMENT 14: Thanks, Alex.
+[00:51.50 - 00:53.84] SEGMENT 15: Can you tell me the reason for your visit?
+[00:54.38 - 00:57.60] SEGMENT 16: For example, is this for a new patient consultation, a follow-up,
+[00:57.60 - 00:59.96] SEGMENT 17: a routine office visit, or something urgent?
+[01:00.00 - 01:04.48] SEGMENT 18: It's for a follow-up visit.
+[01:05.16 - 01:06.92] SEGMENT 19: When's the earliest I can come and...
+[01:09.52 - 01:12.88] SEGMENT 20: Let me check the soonest available appointment for your follow-up visit.
+[01:13.24 - 01:13.76] SEGMENT 21: One moment.
+[01:14.32 - 01:17.48] SEGMENT 22: The soonest follow-up appointment is Wednesday, July 8.
+[01:17.96 - 01:19.76] SEGMENT 23: Would you like a morning or afternoon time?
+[01:20.12 - 01:21.84] SEGMENT 24: I can offer a few options.
+[01:22.40 - 01:24.24] SEGMENT 25: I think you might have the date wrong.
+[01:24.92 - 01:27.44] SEGMENT 26: Can you confirm if that's for July 8, 20...
+[01:27.44 - 01:30.88] SEGMENT 27: The next available appointments are actually on Wednesday, July 8.
+[01:31.32 - 01:32.80] SEGMENT 28: Today is Tuesday, July 7.
+[01:33.36 - 01:36.96] SEGMENT 29: Would you like to book a slot on July 8, or do you prefer a different day?
+[01:43.32 - 01:46.08] SEGMENT 30: I just want to know the soonest appointment available.
+[01:46.76 - 01:48.00] SEGMENT 31: Can you check for me?
+[01:48.28 - 01:53.20] SEGMENT 32: The soonest available appointment is Wednesday, July 8 at 10 a.m.
+[01:53.56 - 01:54.80] SEGMENT 33: Would you like to book that time?
+[01:55.52 - 01:57.68] SEGMENT 34: I think there's still a mistake with the date.
+[01:58.32 - 02:00.00] SEGMENT 35: Can you confirm the soonest appointment...
+[02:00.00 - 02:02.72] SEGMENT 36: Today is Tuesday, July 7.
+[02:03.12 - 02:06.72] SEGMENT 37: The earliest available appointment is tomorrow, Wednesday, July 8.
+[02:07.12 - 02:08.76] SEGMENT 38: Would you like to book the 10 a.m.
+[02:08.76 - 02:11.08] SEGMENT 39: slot, or do you want a different time?
+[02:14.96 - 02:17.72] SEGMENT 40: I really think there's a misunderstanding with the date.
+[02:18.40 - 02:20.88] SEGMENT 41: Can you please check for an appointment in October?
+[02:20.88 - 02:21.92] SEGMENT 42: Thanks for pointing that out.
+[02:21.92 - 02:29.44] SEGMENT 43: To clarify, today is Tuesday, July 7, and the soonest appointment I see is for Wednesday, July 8.

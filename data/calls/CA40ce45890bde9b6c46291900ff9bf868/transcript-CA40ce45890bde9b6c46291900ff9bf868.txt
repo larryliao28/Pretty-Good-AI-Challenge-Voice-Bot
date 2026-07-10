@@ -1,0 +1,42 @@
+[00:00.00 - 00:03.80] SEGMENT 1: This call may be recorded for quality and training purposes.
+[00:03.80 - 00:06.60] SEGMENT 2: Para espanol, oprima el 2.
+[00:06.60 - 00:08.88] SEGMENT 3: Thanks for calling Pivot Point Orthopedics,
+[00:08.88 - 00:10.48] SEGMENT 4: part of Pretty Good AI.
+[00:10.48 - 00:13.64] SEGMENT 5: How may I help you today?
+[00:13.64 - 00:17.48] SEGMENT 6: Hi, I wanted to check if you accept PPO insurance
+[00:17.48 - 00:18.76] SEGMENT 7: and whether I need a referral.
+[00:23.48 - 00:25.28] SEGMENT 8: We do accept most insurance plans,
+[00:25.28 - 00:27.12] SEGMENT 9: including many PPO options.
+[00:27.12 - 00:30.28] SEGMENT 10: Some PPO plans do not require a referral,
+[00:30.28 - 00:32.92] SEGMENT 11: but it can depend on your specific insurance.
+[00:32.92 - 00:35.36] SEGMENT 12: Would you like to check or update your insurance details
+[00:35.36 - 00:35.88] SEGMENT 13: on file?
+[00:39.36 - 00:42.04] SEGMENT 14: Could you clarify which PPO plans you accept?
+[00:46.44 - 00:49.04] SEGMENT 15: I don't have a full list of accepted PPO plans,
+[00:49.04 - 00:52.52] SEGMENT 16: but Pivot Point Orthopedics works with most major PPO
+[00:52.52 - 00:54.12] SEGMENT 17: insurance providers.
+[00:54.12 - 00:56.28] SEGMENT 18: If you'd like, I can check your insurance details
+[00:56.28 - 00:57.96] SEGMENT 19: or connect you with our clinic support.
+[01:00.64 - 01:03.36] SEGMENT 20: I see you're calling from the number we have on file.
+[01:03.36 - 01:04.40] SEGMENT 21: Am I speaking with Alex?
+[01:10.36 - 01:13.52] SEGMENT 22: Yes, that's me.
+[01:13.52 - 01:15.08] SEGMENT 23: Please provide your date of birth.
+[01:18.92 - 01:23.88] SEGMENT 24: June 12, 1990.
+[01:23.88 - 01:25.48] SEGMENT 25: The birthday doesn't match our records,
+[01:25.48 - 01:27.76] SEGMENT 26: but for demo purposes, I'll accept it.
+[01:27.76 - 01:30.24] SEGMENT 27: Would you like me to check your insurance details on file
+[01:30.24 - 01:31.24] SEGMENT 28: or help you update them?
+[01:36.84 - 01:40.52] SEGMENT 29: I'd like to know if I need a referral for my PPO plan first.
+[01:46.56 - 01:49.20] SEGMENT 30: You don't have any insurance on file with us yet.
+[01:49.20 - 01:51.56] SEGMENT 31: If you share your PPO insurance details,
+[01:51.56 - 01:55.04] SEGMENT 32: I can check if a referral is needed for your specific plan.
+[01:55.04 - 01:56.68] SEGMENT 33: Would you like to add your insurance now?
+[02:00.76 - 02:03.96] SEGMENT 34: I don't have the details right now.
+[02:03.96 - 02:07.00] SEGMENT 35: Can you tell me if most PPO plans typically
+[02:07.00 - 02:07.64] SEGMENT 36: need a referral?
+[02:13.52 - 02:18.16] SEGMENT 37: Most PPO plans do not require a referral to see a specialist,
+[02:18.16 - 02:20.56] SEGMENT 38: but there are exceptions depending on the plan.
+[02:20.56 - 02:22.56] SEGMENT 39: It's best to check with your insurance provider
+[02:22.56 - 02:24.64] SEGMENT 40: or review your plan details to be sure.
+[02:25.12 - 02:28.12] SEGMENT 41: Thank you.
+[02:28.12 - 02:29.96] SEGMENT 42: You're welcome.

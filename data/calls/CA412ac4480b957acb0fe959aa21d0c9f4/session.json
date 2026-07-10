@@ -1,0 +1,115 @@
+{
+  "call_sid": "CA412ac4480b957acb0fe959aa21d0c9f4",
+  "scenario_id": "reschedule",
+  "destination": "+18054398008",
+  "status": "completed",
+  "created_at": "2026-07-07T09:30:41Z",
+  "updated_at": "2026-07-07T10:17:36Z",
+  "turns": [
+    {
+      "timestamp": "2026-07-07T09:31:01Z",
+      "speaker": "agent",
+      "text": "Call in Pivot Point Orthopedics part of pretty good AI. How may I help you today?"
+    },
+    {
+      "timestamp": "2026-07-07T09:31:01Z",
+      "speaker": "patient",
+      "text": "Hi, I need to reschedule an appointment I already have."
+    },
+    {
+      "timestamp": "2026-07-07T09:31:15Z",
+      "speaker": "agent",
+      "text": "I see you're calling from the number we have on file. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-07-07T09:31:17Z",
+      "speaker": "patient",
+      "text": "Yes, that's me."
+    },
+    {
+      "timestamp": "2026-07-07T09:31:25Z",
+      "speaker": "agent",
+      "text": "Please provide your date of birth."
+    },
+    {
+      "timestamp": "2026-07-07T09:31:26Z",
+      "speaker": "patient",
+      "text": "It's June 12, 1990."
+    },
+    {
+      "timestamp": "2026-07-07T09:31:48Z",
+      "speaker": "agent",
+      "text": "You have an appointment scheduled for Tuesday, July 14th, at 9:30 a.m. with Dr. Zig Mill dowski at Nashville, 220 Athens Way is this the appointment you want to reschedule?"
+    },
+    {
+      "timestamp": "2026-07-07T09:31:49Z",
+      "speaker": "patient",
+      "text": "Actually, I think it\u2019s for Tuesday, July 18th. Can I reschedule that one?"
+    },
+    {
+      "timestamp": "2026-07-07T09:32:03Z",
+      "speaker": "agent",
+      "text": "I have your appointment as Tuesday, July 14th at 9:30 a.m. there is no appointment listed for July 18th."
+    },
+    {
+      "timestamp": "2026-07-07T09:32:08Z",
+      "speaker": "patient",
+      "text": "I\u2019m pretty sure it\u2019s July 18th. Can you check again for me?"
+    },
+    {
+      "timestamp": "2026-07-07T09:32:19Z",
+      "speaker": "agent",
+      "text": "I always see an appointment for July 14th at 9:30 a.m. there is nothing scheduled for July 18th."
+    },
+    {
+      "timestamp": "2026-07-07T09:32:21Z",
+      "speaker": "patient",
+      "text": "Okay, let\u2019s go ahead and reschedule the July 14th appointment then. What weekday afternoons do you have available?"
+    },
+    {
+      "timestamp": "2026-07-07T09:32:26Z",
+      "speaker": "agent",
+      "text": "To a different date and time."
+    },
+    {
+      "timestamp": "2026-07-07T09:32:27Z",
+      "speaker": "patient",
+      "text": "Yes, I\u2019d like to move it to a weekday afternoon. What options do you have?"
+    },
+    {
+      "timestamp": "2026-07-07T09:32:42Z",
+      "speaker": "agent",
+      "text": "Let me check for available Tuesday, afternoon. Appointments to reschedule your visit"
+    },
+    {
+      "timestamp": "2026-07-07T09:32:43Z",
+      "speaker": "patient",
+      "text": "I\u2019m looking for any weekday afternoon, not just Tuesday. Do you have other options?"
+    },
+    {
+      "timestamp": "2026-07-07T09:33:03Z",
+      "speaker": "agent",
+      "text": "Appointment is Monday July 13th at 10:30 a.m. there are also openings on Tuesday, July 14th at 10:00 a.m. and 3:00 p.m. would you like to move your appointment to 1 of these times? Or do you want to look for other dates?"
+    },
+    {
+      "timestamp": "2026-07-07T09:33:05Z",
+      "speaker": "patient",
+      "text": "I think you meant Monday, July 17th, not the 13th. Can I get the 3:00 p.m. slot on July 14th?"
+    },
+    {
+      "timestamp": "2026-07-07T09:33:18Z",
+      "speaker": "agent",
+      "text": "Monday available is July  13th."
+    },
+    {
+      "timestamp": "2026-07-07T09:33:19Z",
+      "speaker": "patient",
+      "text": "I see. Can we just go with the 3:00 p.m. slot on July 14th then?"
+    }
+  ],
+  "recording_sid": "RE5b63211d9591e845207518e4caa7d8d7",
+  "recording_url": "https://api.twilio.com/2010-04-01/Accounts/AC_REDACTED/Recordings/RE5b63211d9591e845207518e4caa7d8d7",
+  "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA412ac4480b957acb0fe959aa21d0c9f4/recording-CA412ac4480b957acb0fe959aa21d0c9f4.mp3",
+  "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA412ac4480b957acb0fe959aa21d0c9f4/transcript-CA412ac4480b957acb0fe959aa21d0c9f4.txt",
+  "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA412ac4480b957acb0fe959aa21d0c9f4/transcript-CA412ac4480b957acb0fe959aa21d0c9f4.txt"
+}

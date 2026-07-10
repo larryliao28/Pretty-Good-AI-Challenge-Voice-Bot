@@ -1,0 +1,32 @@
+[00:00.00 - 00:03.24] SEGMENT 1: This call may be recorded for quality and training purposes.
+[00:03.80 - 00:05.76] SEGMENT 2: Para español, oprima el 2.
+[00:06.68 - 00:10.20] SEGMENT 3: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10.72 - 00:11.84] SEGMENT 4: How may I help you today?
+[00:16.40 - 00:20.84] SEGMENT 5: Hi, I want to schedule a routine checkup for next week, if possible.
+[00:23.92 - 00:26.20] SEGMENT 6: I see you're calling from the number we have on file.
+[00:26.76 - 00:28.04] SEGMENT 7: Am I speaking with Alex?
+[00:30.00 - 00:35.60] SEGMENT 8: Yes, that's me.
+[00:36.52 - 00:38.04] SEGMENT 9: Please provide your date of birth.
+[00:39.92 - 00:40.68] SEGMENT 10: It's June 12th.
+[00:40.68 - 00:42.36] SEGMENT 11: I need your full date of birth to continue.
+[00:42.92 - 00:44.32] SEGMENT 12: Could you please tell me your date of birth?
+[00:49.80 - 00:52.48] SEGMENT 13: Sure, it's June 12th, 1990.
+[00:52.48 - 01:03.36] SEGMENT 14: Do you have a preferred provider for your routine checkup, or would you like to see the first available?
+[01:05.72 - 01:07.44] SEGMENT 15: I don't have a preferred provider.
+[01:08.04 - 01:09.80] SEGMENT 16: First available works for me.
+[01:12.84 - 01:15.76] SEGMENT 17: Let me check the available routine checkup appointments for next week.
+[01:16.24 - 01:16.76] SEGMENT 18: One moment.
+[01:17.40 - 01:20.36] SEGMENT 19: We have several openings for a routine checkup next week.
+[01:20.80 - 01:22.92] SEGMENT 20: Would you prefer a morning or afternoon appointment?
+[01:27.92 - 01:29.76] SEGMENT 21: I do prefer a morning appointment.
+[01:32.52 - 01:35.12] SEGMENT 22: Here are some morning options for Tuesday, July 14th.
+[01:35.64 - 01:42.96] SEGMENT 23: You can see Dr. Zbigniew Lukoski at 9.30 or 10 a.m., or Dr. Kelly Noble at 10 a.m.
+[01:43.40 - 01:44.72] SEGMENT 24: Do any of these work for you?
+[01:44.72 - 01:53.48] SEGMENT 25: I'll take the 9.30 a.m. with Dr. Laskowski.
+[01:58.36 - 02:02.60] SEGMENT 26: Your routine checkup is booked for Tuesday, July 14th at 9.30 a.m.
+[02:02.60 - 02:05.88] SEGMENT 27: with Dr. Zbigniew Lukoski at Pivot Point Orthopedics.
+[02:06.36 - 02:11.96] SEGMENT 28: Please bring your photo ID, insurance card, a list of your current medications, and any...
+[02:12.24 - 02:19.68] SEGMENT 29: Your appointment is set for next Tuesday, July 14th at 9.30 a.m. with Dr. Zbigniew Lukoski.
+[02:20.24 - 02:21.56] SEGMENT 30: Is there anything else I can help you with?
+[02:22.60 - 02:26.24] SEGMENT 31: Just to clarify, is that July 14th or next Tuesday?
+[02:26.76 - 02:28.20] SEGMENT 32: I want to make sure I have...

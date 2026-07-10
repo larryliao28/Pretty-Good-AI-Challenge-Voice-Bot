@@ -1,0 +1,41 @@
+[00:00.00 - 00:03.20] SEGMENT 1: This call may be recorded for quality and training purposes.
+[00:03.78 - 00:05.72] SEGMENT 2: Para español, oprima el 2.
+[00:06.42 - 00:10.46] SEGMENT 3: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10.82 - 00:11.90] SEGMENT 4: How may I help you today?
+[00:13.94 - 00:18.34] SEGMENT 5: Hi. I want to schedule a routine check-up for next week if possible.
+[00:19.98 - 00:23.78] SEGMENT 6: I see you're calling from the number we have on file.
+[00:24.22 - 00:25.28] SEGMENT 7: Am I speaking with Alex?
+[00:25.28 - 00:30.64] SEGMENT 8: Yes, that's me.
+[00:31.20 - 00:32.00] SEGMENT 9: Can we set up?
+[00:32.00 - 00:33.06] SEGMENT 10: Please provide your date of birth.
+[00:33.60 - 00:36.94] SEGMENT 11: It's June 12th.
+[00:36.94 - 00:38.54] SEGMENT 12: I need your full date of birth to continue.
+[00:39.12 - 00:40.70] SEGMENT 13: Could you please tell me your date of birth?
+[00:46.46 - 00:49.16] SEGMENT 14: Sure. It's June 12th, 1990.
+[00:49.16 - 01:00.24] SEGMENT 15: Do you have a preferred provider for your routine check-up or would you
+[01:00.24 - 01:01.76] SEGMENT 16: like to see the first available?
+[01:02.38 - 01:04.74] SEGMENT 17: I don't have a specific provider in mind.
+[01:05.46 - 01:07.22] SEGMENT 18: Can you tell me who is available?
+[01:07.78 - 01:13.08] SEGMENT 19: It looks like you already have a routine check-up appointment booked.
+[01:13.52 - 01:17.20] SEGMENT 20: If you want to reschedule or cancel that appointment, I can help with that.
+[01:17.80 - 01:20.10] SEGMENT 21: Would you like to make a change to your existing appointment?
+[01:20.10 - 01:21.32] SEGMENT 22: I wasn't aware of that.
+[01:22.04 - 01:23.28] SEGMENT 23: Can you tell me when it is?
+[01:23.76 - 01:24.32] SEGMENT 24: No problem.
+[01:24.84 - 01:27.72] SEGMENT 25: Would you like details about your current routine check-up appointment
+[01:28.08 - 01:30.08] SEGMENT 26: or do you want to reschedule or cancel it?
+[01:36.18 - 01:39.78] SEGMENT 27: I just want to schedule a new check-up for next week instead.
+[01:40.70 - 01:41.56] SEGMENT 28: Can we do that?
+[01:42.02 - 01:45.94] SEGMENT 29: I'm unable to book a new routine check-up since you already have one scheduled.
+[01:46.32 - 01:50.14] SEGMENT 30: If you'd like, I can help you reschedule your existing appointment to next week.
+[01:50.50 - 01:51.32] SEGMENT 31: Would you like to do that?
+[01:51.98 - 01:55.08] SEGMENT 32: Can you tell me the date of my existing appointment first?
+[01:55.08 - 02:02.00] SEGMENT 33: I don't have access to your current appointment details, but I can connect you
+[02:02.00 - 02:04.62] SEGMENT 34: with a team member who can provide that information.
+[02:05.02 - 02:06.66] SEGMENT 35: Would you like me to transfer you now?
+[02:08.38 - 02:09.42] SEGMENT 36: That sounds good.
+[02:10.12 - 02:12.76] SEGMENT 37: Can you transfer me to someone who can help?
+[02:15.94 - 02:19.96] SEGMENT 38: Connecting you to a representative.
+[02:20.30 - 02:20.92] SEGMENT 39: Please wait.
+[02:22.48 - 02:25.44] SEGMENT 40: Hello. You've reached the Pretty Good AI test line.
+[02:25.60 - 02:26.00] SEGMENT 41: Goodbye.

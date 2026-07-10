@@ -1,0 +1,130 @@
+{
+  "call_sid": "CA82443103af885d52f73b8b1465fc51c3",
+  "scenario_id": "appointment_simple",
+  "destination": "+18054398008",
+  "status": "completed",
+  "created_at": "2026-07-07T07:22:03Z",
+  "updated_at": "2026-07-07T10:18:47Z",
+  "turns": [
+    {
+      "timestamp": "2026-07-07T07:22:24Z",
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics part of pretty good AI. How may I help you today?"
+    },
+    {
+      "timestamp": "2026-07-07T07:22:24Z",
+      "speaker": "patient",
+      "text": "Hi, I want to schedule a routine check-up for next week if possible."
+    },
+    {
+      "timestamp": "2026-07-07T07:22:40Z",
+      "speaker": "agent",
+      "text": "Calling from the number we have on file. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-07-07T07:22:43Z",
+      "speaker": "patient",
+      "text": "Yes, that's me."
+    },
+    {
+      "timestamp": "2026-07-07T07:22:48Z",
+      "speaker": "agent",
+      "text": "Please provide your date of birth."
+    },
+    {
+      "timestamp": "2026-07-07T07:22:49Z",
+      "speaker": "patient",
+      "text": "It's June 12, 1990."
+    },
+    {
+      "timestamp": "2026-07-07T07:22:57Z",
+      "speaker": "agent",
+      "text": "I need your full date of birth to continue. Could you please tell me your date of birth?"
+    },
+    {
+      "timestamp": "2026-07-07T07:22:58Z",
+      "speaker": "patient",
+      "text": "Sure, it's June 12 1990."
+    },
+    {
+      "timestamp": "2026-07-07T07:23:13Z",
+      "speaker": "agent",
+      "text": "Do you have a preferred provider for your routine? Checkup, or would you like to see the first available?"
+    },
+    {
+      "timestamp": "2026-07-07T07:23:14Z",
+      "speaker": "patient",
+      "text": "I don't have a preferred provider. First available works for me."
+    },
+    {
+      "timestamp": "2026-07-07T07:23:26Z",
+      "speaker": "agent",
+      "text": "Let me check the available routine, checkup appointments for next week. 1 moment."
+    },
+    {
+      "timestamp": "2026-07-07T07:23:28Z",
+      "speaker": "patient",
+      "text": "Sure, take your time."
+    },
+    {
+      "timestamp": "2026-07-07T07:23:35Z",
+      "speaker": "agent",
+      "text": "Check up next week. Would you prefer a morning or afternoon appointment?"
+    },
+    {
+      "timestamp": "2026-07-07T07:23:36Z",
+      "speaker": "patient",
+      "text": "I\u2019d prefer a morning appointment."
+    },
+    {
+      "timestamp": "2026-07-07T07:23:45Z",
+      "speaker": "agent",
+      "text": "Here are some morning options for Tuesday, July 14th."
+    },
+    {
+      "timestamp": "2026-07-07T07:23:46Z",
+      "speaker": "patient",
+      "text": "Actually, I meant next week, not July. Can you check for morning slots next week?"
+    },
+    {
+      "timestamp": "2026-07-07T07:23:57Z",
+      "speaker": "agent",
+      "text": "Laskowski at 9:30 or 10:00 a.m. or Dr. Kelly Noble at 10:00 a.m. do any of these work for you."
+    },
+    {
+      "timestamp": "2026-07-07T07:23:58Z",
+      "speaker": "patient",
+      "text": "I\u2019ll take the 9:30 a.m. with Dr. Laskowski."
+    },
+    {
+      "timestamp": "2026-07-07T07:24:18Z",
+      "speaker": "agent",
+      "text": "Your routine checkup is booked for Tuesday, July 14th. At 9:30 a.m. with Dr. Ziggy Lakosky at Pivot Point Orthopedics, please bring your photo ID."
+    },
+    {
+      "timestamp": "2026-07-07T07:24:20Z",
+      "speaker": "patient",
+      "text": "I think you meant next week, not July 14th. Can you confirm the date again?"
+    },
+    {
+      "timestamp": "2026-07-07T07:24:31Z",
+      "speaker": "agent",
+      "text": "And any your appointment is set for next Tuesday, July 14th, at 9:30, a.m. with Dr. Z big news across the way."
+    },
+    {
+      "timestamp": "2026-07-07T07:24:33Z",
+      "speaker": "patient",
+      "text": "Just to clarify, is that July 14th or next Tuesday? I want to make sure I have the right date."
+    },
+    {
+      "timestamp": "2026-07-07T07:24:40Z",
+      "speaker": "patient",
+      "text": "I'm sorry, but I meant next week, which is actually October 10th. Can you confirm that date instead?"
+    }
+  ],
+  "recording_sid": "RE8323f23c807bcff316ce8d7344dd8b0c",
+  "recording_url": "https://api.twilio.com/2010-04-01/Accounts/AC_REDACTED/Recordings/RE8323f23c807bcff316ce8d7344dd8b0c",
+  "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA82443103af885d52f73b8b1465fc51c3/recording-CA82443103af885d52f73b8b1465fc51c3.mp3",
+  "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA82443103af885d52f73b8b1465fc51c3/transcript-CA82443103af885d52f73b8b1465fc51c3.txt",
+  "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA82443103af885d52f73b8b1465fc51c3/transcript-CA82443103af885d52f73b8b1465fc51c3.txt"
+}

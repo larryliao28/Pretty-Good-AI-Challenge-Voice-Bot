@@ -1,0 +1,34 @@
+[00:00.00 - 00:03.24] SEGMENT 1: This call may be recorded for quality and training purposes.
+[00:03.80 - 00:05.76] SEGMENT 2: Para Español, oprima el 2.
+[00:06.60 - 00:10.32] SEGMENT 3: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10.72 - 00:11.70] SEGMENT 4: How may I help you today?
+[00:16.40 - 00:19.82] SEGMENT 5: Hi. I need to reschedule an appointment I already have.
+[00:21.42 - 00:27.24] SEGMENT 6: I see you're calling from the number we have on file.
+[00:27.88 - 00:29.08] SEGMENT 7: Am I speaking with Alex?
+[00:30.00 - 00:32.80] SEGMENT 8: Yes, that's me.
+[00:33.92 - 00:35.08] SEGMENT 9: Please provide your date of birth.
+[00:40.04 - 00:42.20] SEGMENT 10: It's June 12, 1990.
+[00:43.80 - 00:52.24] SEGMENT 11: You have an appointment scheduled for Tuesday, July 14 at 930 a.m.
+[00:52.24 - 00:55.64] SEGMENT 12: with Dr. Zegmil Likoski at Nashville 220 Athens Way.
+[00:56.20 - 00:57.92] SEGMENT 13: Is this the appointment you want to reschedule?
+[01:00.00 - 01:06.60] SEGMENT 14: Actually, I think it's for Tuesday, July 18.
+[01:07.28 - 01:08.76] SEGMENT 15: Can I reschedule that one?
+[01:09.32 - 01:12.88] SEGMENT 16: I have your appointment as Tuesday, July 14 at 930 a.m.
+[01:13.28 - 01:15.48] SEGMENT 17: There is no appointment listed for July 18.
+[01:16.12 - 01:18.36] SEGMENT 18: Would you like to reschedule the July 14 appointment?
+[01:22.12 - 01:24.40] SEGMENT 19: I am pretty sure it's July 18.
+[01:25.12 - 01:26.68] SEGMENT 20: Can you check again for me?
+[01:27.00 - 01:30.04] SEGMENT 21: I only see an appointment for July 14 at 930 a.m.
+[01:30.40 - 01:32.48] SEGMENT 22: There is nothing scheduled for July 18.
+[01:33.08 - 01:36.48] SEGMENT 23: Would you like to move the July 14 appointment to a different date and time?
+[01:41.76 - 01:44.88] SEGMENT 24: Yes, I'd like to move it to a weekday afternoon.
+[01:45.48 - 01:46.60] SEGMENT 25: What options do you have?
+[01:51.32 - 01:54.76] SEGMENT 26: Let me check for available Tuesday afternoon appointments to reschedule your visit.
+[01:55.32 - 01:55.80] SEGMENT 27: One moment.
+[01:56.36 - 02:01.88] SEGMENT 28: The next available appointment is Monday, July 13 at 1030 a.m.
+[02:02.44 - 02:06.44] SEGMENT 29: There are also openings on Tuesday, July 14 at 10 a.m. and 3 p.m.
+[02:06.92 - 02:09.24] SEGMENT 30: Would you like to move your appointment to one of these times
+[02:09.24 - 02:10.76] SEGMENT 31: or do you want to look for other dates?
+[02:18.88 - 02:22.72] SEGMENT 32: I think you meant Monday, July 17, not the 13th.
+[02:23.36 - 02:26.32] SEGMENT 33: Can I get a 3 p.m. slot on July 14?
+[02:26.64 - 02:29.40] SEGMENT 34: The soonest Monday available is July 13.

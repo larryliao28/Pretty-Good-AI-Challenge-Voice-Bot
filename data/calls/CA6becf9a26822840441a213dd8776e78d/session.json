@@ -1,0 +1,115 @@
+{
+  "call_sid": "CA6becf9a26822840441a213dd8776e78d",
+  "scenario_id": "edge_ambiguous",
+  "destination": "+18054398008",
+  "status": "completed",
+  "created_at": "2026-07-07T09:33:13Z",
+  "updated_at": "2026-07-07T10:18:19Z",
+  "turns": [
+    {
+      "timestamp": "2026-07-07T09:33:49Z",
+      "speaker": "agent",
+      "text": "Hello, this is Pivot Point Orthopedics. How can I help you today?"
+    },
+    {
+      "timestamp": "2026-07-07T09:33:49Z",
+      "speaker": "patient",
+      "text": "I need an appointment sometime soon, maybe early or late, I am not sure."
+    },
+    {
+      "timestamp": "2026-07-07T09:34:03Z",
+      "speaker": "agent",
+      "text": "I see you're calling from the number we have on file. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-07-07T09:34:05Z",
+      "speaker": "patient",
+      "text": "Yes, that's me."
+    },
+    {
+      "timestamp": "2026-07-07T09:34:10Z",
+      "speaker": "agent",
+      "text": "Please provide your date of birth."
+    },
+    {
+      "timestamp": "2026-07-07T09:34:11Z",
+      "speaker": "patient",
+      "text": "It's June 12, 1990."
+    },
+    {
+      "timestamp": "2026-07-07T09:34:20Z",
+      "speaker": "agent",
+      "text": "I need your date of birth. To look up your information. Could you please tell me your date of birth?"
+    },
+    {
+      "timestamp": "2026-07-07T09:34:22Z",
+      "speaker": "patient",
+      "text": "Sure, it's June 12, 1990."
+    },
+    {
+      "timestamp": "2026-07-07T09:34:42Z",
+      "speaker": "agent",
+      "text": "Can you tell me the reason for your visit? For example, is this for a new patient consultation, a follow-up. A routine checkup, or something? Urgent."
+    },
+    {
+      "timestamp": "2026-07-07T09:34:44Z",
+      "speaker": "patient",
+      "text": "It's for a follow-up, but I\u2019m not sure if it\u2019s urgent or not."
+    },
+    {
+      "timestamp": "2026-07-07T09:34:54Z",
+      "speaker": "agent",
+      "text": "Just to confirm, you'd like to book a follow-up consultation. Is that correct?"
+    },
+    {
+      "timestamp": "2026-07-07T09:34:59Z",
+      "speaker": "patient",
+      "text": "Yes, but I might need to discuss some urgent concerns during the visit."
+    },
+    {
+      "timestamp": "2026-07-07T09:35:17Z",
+      "speaker": "agent",
+      "text": "We have several openings for follow-up consultations this week. Do you have a preferred provider or would you like to see your primary provider Dr. Doogie Howser."
+    },
+    {
+      "timestamp": "2026-07-07T09:35:18Z",
+      "speaker": "patient",
+      "text": "I\u2019m not sure about Dr. Howser. Can you tell me more about their availability?"
+    },
+    {
+      "timestamp": "2026-07-07T09:35:31Z",
+      "speaker": "agent",
+      "text": "No problem. We also have openings with Carl mens PT and Kelly Noble MD"
+    },
+    {
+      "timestamp": "2026-07-07T09:35:32Z",
+      "speaker": "patient",
+      "text": "Can you tell me a bit about Kelly Noble? What kind of doctor is she?"
+    },
+    {
+      "timestamp": "2026-07-07T09:35:39Z",
+      "speaker": "agent",
+      "text": "I list the earliest available times with any provider."
+    },
+    {
+      "timestamp": "2026-07-07T09:35:40Z",
+      "speaker": "patient",
+      "text": "Okay, but can you confirm if Kelly Noble is a specialist in anything specific?"
+    },
+    {
+      "timestamp": "2026-07-07T09:35:49Z",
+      "speaker": "agent",
+      "text": "I,"
+    },
+    {
+      "timestamp": "2026-07-07T09:35:58Z",
+      "speaker": "patient",
+      "text": "It seems like there was a pause. Can you let me know if Kelly has a specialty?"
+    }
+  ],
+  "recording_sid": "RE9383a73ff8184346c62d843856aa0903",
+  "recording_url": "https://api.twilio.com/2010-04-01/Accounts/AC_REDACTED/Recordings/RE9383a73ff8184346c62d843856aa0903",
+  "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA6becf9a26822840441a213dd8776e78d/recording-CA6becf9a26822840441a213dd8776e78d.mp3",
+  "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA6becf9a26822840441a213dd8776e78d/transcript-CA6becf9a26822840441a213dd8776e78d.txt",
+  "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA6becf9a26822840441a213dd8776e78d/transcript-CA6becf9a26822840441a213dd8776e78d.txt"
+}

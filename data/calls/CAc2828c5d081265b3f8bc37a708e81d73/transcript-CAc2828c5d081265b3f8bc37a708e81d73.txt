@@ -1,0 +1,30 @@
+[00:00.00 - 00:03.24] SEGMENT 1: This call may be recorded for quality and training purposes.
+[00:03.80 - 00:05.76] SEGMENT 2: Para Español, oprima el 2.
+[00:06.68 - 00:10.96] SEGMENT 3: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:11.54 - 00:12.62] SEGMENT 4: How may I help you today?
+[00:14.78 - 00:17.52] SEGMENT 5: Hi. I got a bill that is higher than expected.
+[00:18.20 - 00:20.62] SEGMENT 6: Can you explain what the charges are for?
+[00:21.24 - 00:23.44] SEGMENT 7: I see you're calling from the number we have on file.
+[00:24.00 - 00:25.16] SEGMENT 8: Am I speaking with Alex?
+[00:30.96 - 00:32.24] SEGMENT 9: Yes, that's me.
+[00:32.92 - 00:33.68] SEGMENT 10: Can you help me?
+[00:33.68 - 00:34.76] SEGMENT 11: Please provide your date of birth.
+[00:39.04 - 00:40.88] SEGMENT 12: Could you please tell me your full date of birth?
+[00:45.80 - 00:47.72] SEGMENT 13: June 12, 1990.
+[00:48.36 - 00:50.84] SEGMENT 14: Can you explain the charges on my bill?
+[00:50.84 - 01:00.76] SEGMENT 15: Let me document your billing concern for the clinic team to review.
+[01:06.32 - 01:12.08] SEGMENT 16: I appreciate that, but can you give me a plain language explanation of the charges while I wait?
+[01:14.96 - 01:19.72] SEGMENT 17: I don't have access to detailed billing breakdowns, but the clinic team will review your case
+[01:20.24 - 01:23.56] SEGMENT 18: and follow up with a clear explanation as soon as possible.
+[01:24.28 - 01:25.92] SEGMENT 19: Is there anything else I can help you with right now?
+[01:29.28 - 01:30.84] SEGMENT 20: Okay. Thanks for that.
+[01:31.56 - 01:35.04] SEGMENT 21: How long does it usually take for the clinic team to follow up?
+[01:38.12 - 01:42.72] SEGMENT 22: The clinic team usually follows up as soon as they can, often within one to two business days.
+[01:43.36 - 01:45.04] SEGMENT 23: If you need anything else, just let me know.
+[01:46.04 - 01:47.08] SEGMENT 24: Thanks for the info.
+[01:47.72 - 01:51.24] SEGMENT 25: Can you confirm if the clinic team will reach out by a phone or email?
+[01:54.60 - 01:58.68] SEGMENT 26: The clinic team typically reaches out by phone, but they may also use email if needed.
+[01:59.36 - 02:02.56] SEGMENT 27: If you have a preferred contact method, let me know and I can add you.
+[02:06.68 - 02:08.52] SEGMENT 28: If you have any other questions, feel free to ask.
+[02:16.04 - 02:19.32] SEGMENT 29: I think I'm all set for now. Thanks for your help.
+[02:21.72 - 02:23.84] SEGMENT 30: You're welcome. Have a great day, Alex.

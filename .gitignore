@@ -14,10 +14,7 @@ venv/
 .env
 
 # Local outputs
-data/calls/*
-data/reports/*
-!data/calls/.gitkeep
-!data/reports/.gitkeep
+# Intentionally tracked for challenge submission artifacts.
 
 # IDE
 .vscode/

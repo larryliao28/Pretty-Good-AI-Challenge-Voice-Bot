@@ -1,0 +1,34 @@
+[00:00.00 - 00:03.24] SEGMENT 1: This call may be recorded for quality and training purposes.
+[00:03.24 - 00:06.64] SEGMENT 2: Para espanol, oprima el 2.
+[00:06.64 - 00:10.80] SEGMENT 3: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10.80 - 00:11.92] SEGMENT 4: How may I help you today?
+[00:16.64 - 00:19.40] SEGMENT 5: Hi, I need a refill for my medication
+[00:19.40 - 00:21.32] SEGMENT 6: and wanted to ask how long it takes.
+[00:24.68 - 00:27.36] SEGMENT 7: I see you're calling from the number we have on file.
+[00:27.36 - 00:28.36] SEGMENT 8: Am I speaking with Alex?
+[00:30.00 - 00:37.80] SEGMENT 9: Yes, that's me.
+[00:37.80 - 00:41.36] SEGMENT 10: Please provide your date of birth.
+[00:41.36 - 00:43.64] SEGMENT 11: I need your full date of birth to continue.
+[00:43.64 - 00:45.56] SEGMENT 12: Could you please tell me your date of birth?
+[00:51.24 - 00:59.96] SEGMENT 13: Sure, it's June 12, 1990.
+[01:00.44 - 01:04.84] SEGMENT 14: The birthday doesn't match the record.
+[01:04.84 - 01:05.84] SEGMENT 15: I'd like to...
+[01:09.84 - 01:10.84] SEGMENT 16: OK, the med...
+[01:15.84 - 01:17.52] SEGMENT 17: I don't see any medications on your chart.
+[01:17.52 - 01:20.60] SEGMENT 18: Could you double check?
+[01:20.60 - 01:21.88] SEGMENT 19: Take your time.
+[01:21.88 - 01:23.36] SEGMENT 20: Let me know if you find any details
+[01:23.36 - 01:24.64] SEGMENT 21: or if you have other questions.
+[01:27.00 - 01:28.92] SEGMENT 22: I really need that refill.
+[01:28.92 - 01:31.88] SEGMENT 23: Can you confirm if you have my prescription history?
+[01:35.72 - 01:37.32] SEGMENT 24: I checked your chart,
+[01:37.32 - 01:39.96] SEGMENT 25: but I don't see any medications listed for refill.
+[01:39.96 - 01:41.88] SEGMENT 26: If you believe there should be something on file,
+[01:41.88 - 01:43.88] SEGMENT 27: I could connect you to our patient support team
+[01:43.88 - 01:45.24] SEGMENT 28: for further help.
+[01:45.24 - 01:46.24] SEGMENT 29: Would you like me to do that?
+[01:49.12 - 01:51.88] SEGMENT 30: Yes, please connect me to the patient support team.
+[01:51.88 - 01:53.84] SEGMENT 31: Connecting you to a representative.
+[01:53.84 - 01:56.00] SEGMENT 32: Please wait.
+[01:56.00 - 01:59.52] SEGMENT 33: Hello, you've reached the Pretty Good AI test line.
+[01:59.52 - 02:00.52] SEGMENT 34: Goodbye.

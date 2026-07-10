@@ -1,0 +1,115 @@
+{
+  "call_sid": "CAa1216ad1053d3465d70338b53c27eb0e",
+  "scenario_id": "urgent_symptom_redirect",
+  "destination": "+18054398008",
+  "status": "completed",
+  "created_at": "2026-07-07T09:57:31Z",
+  "updated_at": "2026-07-07T10:17:44Z",
+  "turns": [
+    {
+      "timestamp": "2026-07-07T09:57:53Z",
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics part of pretty good AI. How may I help you today?"
+    },
+    {
+      "timestamp": "2026-07-07T09:57:53Z",
+      "speaker": "patient",
+      "text": "Hi, my knee pain got much worse overnight and I am not sure if I should wait for an appointment."
+    },
+    {
+      "timestamp": "2026-07-07T09:58:05Z",
+      "speaker": "agent",
+      "text": "I see you're calling from the number we have on file. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-07-07T09:58:07Z",
+      "speaker": "patient",
+      "text": "Yes, that's me. My knee pain is really bad, and I'm worried it might be something serious. Should I go to urgent care?"
+    },
+    {
+      "timestamp": "2026-07-07T09:58:15Z",
+      "speaker": "agent",
+      "text": "Please provide your date of birth."
+    },
+    {
+      "timestamp": "2026-07-07T09:58:16Z",
+      "speaker": "patient",
+      "text": "June 12, 1990."
+    },
+    {
+      "timestamp": "2026-07-07T09:58:23Z",
+      "speaker": "agent",
+      "text": "To continue. Could you please tell me your date of birth?"
+    },
+    {
+      "timestamp": "2026-07-07T09:58:24Z",
+      "speaker": "patient",
+      "text": "June 12, 1990. Is there a reason you need it again?"
+    },
+    {
+      "timestamp": "2026-07-07T09:58:40Z",
+      "speaker": "agent",
+      "text": "The birthday doesn't match our records, but for demo purposes, I'll accept it. You mentioned your knee pain. Got much worse overnight."
+    },
+    {
+      "timestamp": "2026-07-07T09:58:43Z",
+      "speaker": "patient",
+      "text": "Yeah, it's really swollen and I can barely walk. Should I go to urgent care?"
+    },
+    {
+      "timestamp": "2026-07-07T09:58:54Z",
+      "speaker": "agent",
+      "text": "Provider about your, would you like to schedule an appointment to have your knee checked? Or do you want to leave a message for a provider to review your symptoms first?"
+    },
+    {
+      "timestamp": "2026-07-07T09:58:57Z",
+      "speaker": "patient",
+      "text": "I\u2019m not sure. With the swelling and pain, wouldn\u2019t urgent care be a better option?"
+    },
+    {
+      "timestamp": "2026-07-07T09:59:15Z",
+      "speaker": "agent",
+      "text": "If your knee pain and swelling are severe or getting worse, quickly, urgent care may be a good option to get evaluated right away."
+    },
+    {
+      "timestamp": "2026-07-07T09:59:17Z",
+      "speaker": "patient",
+      "text": "That makes sense. Should I go to urgent care now, or is there anything else I should do first?"
+    },
+    {
+      "timestamp": "2026-07-07T09:59:27Z",
+      "speaker": "agent",
+      "text": "You should see if you decide you want to schedule a Clinic appointment or leave a message for a provider just let me know."
+    },
+    {
+      "timestamp": "2026-07-07T09:59:28Z",
+      "speaker": "patient",
+      "text": "I appreciate that, but I really think urgent care is the best choice for this. Can you confirm that?"
+    },
+    {
+      "timestamp": "2026-07-07T09:59:52Z",
+      "speaker": "agent",
+      "text": "If your pain and swelling are severe. Urgent Care is the safest choice for quit evaluation. They can check for serious issues and help manage your symptoms right away. If you need anything from our Clinic after your Urgent Care, visit just Reach Out."
+    },
+    {
+      "timestamp": "2026-07-07T09:59:54Z",
+      "speaker": "patient",
+      "text": "Got it, thanks for clarifying. I\u2019ll head to urgent care now."
+    },
+    {
+      "timestamp": "2026-07-07T10:00:07Z",
+      "speaker": "agent",
+      "text": "Take care, Alex. If you need  follow"
+    },
+    {
+      "timestamp": "2026-07-07T10:00:09Z",
+      "speaker": "patient",
+      "text": "Thanks! I appreciate your help."
+    }
+  ],
+  "recording_sid": "RE17f92239f68b38ca01b7ae76b4f91cb1",
+  "recording_url": "https://api.twilio.com/2010-04-01/Accounts/AC_REDACTED/Recordings/RE17f92239f68b38ca01b7ae76b4f91cb1",
+  "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAa1216ad1053d3465d70338b53c27eb0e/recording-CAa1216ad1053d3465d70338b53c27eb0e.mp3",
+  "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAa1216ad1053d3465d70338b53c27eb0e/transcript-CAa1216ad1053d3465d70338b53c27eb0e.txt",
+  "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAa1216ad1053d3465d70338b53c27eb0e/transcript-CAa1216ad1053d3465d70338b53c27eb0e.txt"
+}

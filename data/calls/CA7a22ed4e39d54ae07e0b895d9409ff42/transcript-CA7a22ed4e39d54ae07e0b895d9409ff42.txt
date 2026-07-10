@@ -1,0 +1,38 @@
+[00:00.00 - 00:03.20] SEGMENT 1: This call may be recorded for quality and training purposes.
+[00:03.20 - 00:06.48] SEGMENT 2: Para Español, oprima el 2.
+[00:06.48 - 00:11.16] SEGMENT 3: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:11.16 - 00:13.40] SEGMENT 4: How may I help you today?
+[00:13.40 - 00:23.00] SEGMENT 5: Hi, I need to cancel my appointment and had a quick question.
+[00:23.00 - 00:25.68] SEGMENT 6: I see you're calling from the number we have on file.
+[00:25.68 - 00:28.68] SEGMENT 7: Am I speaking with Alex?
+[00:28.68 - 00:35.12] SEGMENT 8: Yes, that's right.
+[00:35.12 - 00:36.12] SEGMENT 9: Can you help me?
+[00:36.12 - 00:41.88] SEGMENT 10: Please provide your date of birth.
+[00:41.88 - 00:45.68] SEGMENT 11: It's June 12th, 1990.
+[00:45.68 - 00:52.08] SEGMENT 12: Alex, the birthday doesn't match our record, but for demo purposes, I'll accept it.
+[00:52.08 - 00:58.08] SEGMENT 13: I'll help you.
+[00:58.08 - 01:00.96] SEGMENT 14: You have an appointment.
+[01:00.96 - 01:06.16] SEGMENT 15: Would you like to cancel your appointment with Dr. Zygmunt Lukoski on Tuesday, July
+[01:06.16 - 01:09.16] SEGMENT 16: 14th?
+[01:09.16 - 01:15.28] SEGMENT 17: Actually, I think the date is wrong.
+[01:15.28 - 01:19.08] SEGMENT 18: My appointment is on July 14th, not Tuesday.
+[01:19.08 - 01:30.44] SEGMENT 19: Can you confirm that?
+[01:30.44 - 01:32.80] SEGMENT 20: That's the only upcoming appointment I see.
+[01:32.80 - 01:37.84] SEGMENT 21: Would you like to cancel it, or do you want to keep it?
+[01:37.84 - 01:40.40] SEGMENT 22: I'd like to cancel it, please.
+[01:40.40 - 01:42.16] SEGMENT 23: Is there a cancellation fee?
+[01:42.16 - 01:52.40] SEGMENT 24: Can you share the reason for cancelling your appointment?
+[01:52.40 - 01:55.52] SEGMENT 25: I just need to cancel it for personal reasons.
+[01:55.52 - 01:57.84] SEGMENT 26: Is there a fee?
+[01:57.84 - 02:02.64] SEGMENT 27: You'd like to cancel your appointment with Dr. Zygmunt Lukoski on Tuesday, July 14th
+[02:02.64 - 02:06.24] SEGMENT 28: for personal reasons, is that correct?
+[02:06.24 - 02:09.56] SEGMENT 29: Yes, that's correct.
+[02:09.56 - 02:14.16] SEGMENT 30: Is there a cancellation fee?
+[02:14.16 - 02:18.44] SEGMENT 31: There's usually no cancellation fee if you let us know in advance, but I recommend checking
+[02:18.44 - 02:20.00] SEGMENT 32: with the clinic support team.
+[02:20.00 - 02:21.00] SEGMENT 33: That sounds...
+[02:21.00 - 02:22.00] SEGMENT 34: Is there anything else?
+[02:22.00 - 02:23.00] SEGMENT 35: Thank you.
+[02:23.00 - 02:24.00] SEGMENT 36: Just to confirm, this is Alex.
+[02:24.00 - 02:25.00] SEGMENT 37: Yes.
+[02:25.00 - 02:25.00] SEGMENT 38:

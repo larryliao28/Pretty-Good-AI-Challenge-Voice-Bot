@@ -1,0 +1,140 @@
+{
+  "call_sid": "CA7a22ed4e39d54ae07e0b895d9409ff42",
+  "scenario_id": "cancel",
+  "destination": "+18054398008",
+  "status": "completed",
+  "created_at": "2026-07-07T09:31:06Z",
+  "updated_at": "2026-07-07T10:18:34Z",
+  "turns": [
+    {
+      "timestamp": "2026-07-07T09:31:25Z",
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics part of pretty good AI. How may I help you today?"
+    },
+    {
+      "timestamp": "2026-07-07T09:31:25Z",
+      "speaker": "patient",
+      "text": "Hi, I need to cancel my appointment and had a quick question."
+    },
+    {
+      "timestamp": "2026-07-07T09:31:42Z",
+      "speaker": "agent",
+      "text": "I see you're calling from the number we have on file and I speaking with Alex,"
+    },
+    {
+      "timestamp": "2026-07-07T09:31:44Z",
+      "speaker": "patient",
+      "text": "Yes, that's right. Can you help me with the cancellation?"
+    },
+    {
+      "timestamp": "2026-07-07T09:31:52Z",
+      "speaker": "agent",
+      "text": "Please provide your date of birth."
+    },
+    {
+      "timestamp": "2026-07-07T09:31:53Z",
+      "speaker": "patient",
+      "text": "It's June 12, 1990."
+    },
+    {
+      "timestamp": "2026-07-07T09:32:01Z",
+      "speaker": "agent",
+      "text": "Alex, the birthday doesn't match our records."
+    },
+    {
+      "timestamp": "2026-07-07T09:32:03Z",
+      "speaker": "patient",
+      "text": "That\u2019s strange; I\u2019ve always used June 12, 1990. Can you double-check?"
+    },
+    {
+      "timestamp": "2026-07-07T09:32:08Z",
+      "speaker": "agent",
+      "text": "I'll help you."
+    },
+    {
+      "timestamp": "2026-07-07T09:32:09Z",
+      "speaker": "patient",
+      "text": "Thanks! I appreciate it."
+    },
+    {
+      "timestamp": "2026-07-07T09:32:22Z",
+      "speaker": "agent",
+      "text": "You have an appointment? Would you like to cancel your appointment with Dr? Ziggy lukovski on Tuesday, July 14th."
+    },
+    {
+      "timestamp": "2026-07-07T09:32:23Z",
+      "speaker": "patient",
+      "text": "Actually, I think that date is wrong. My appointment is on July 14th, not Tuesday. Can you confirm that?"
+    },
+    {
+      "timestamp": "2026-07-07T09:32:42Z",
+      "speaker": "patient",
+      "text": "I apologize for the confusion. Your appointment is indeed on Friday, July 14th. Would you like to proceed with the cancellation?"
+    },
+    {
+      "timestamp": "2026-07-07T09:32:47Z",
+      "speaker": "agent",
+      "text": "Upcoming appointment. I see. Would you like to cancel it or do you want to keep it?"
+    },
+    {
+      "timestamp": "2026-07-07T09:32:49Z",
+      "speaker": "patient",
+      "text": "I\u2019d like to cancel it, please. Is there a cancellation fee?"
+    },
+    {
+      "timestamp": "2026-07-07T09:33:00Z",
+      "speaker": "agent",
+      "text": "Can you share the reason for canceling, your appointment?"
+    },
+    {
+      "timestamp": "2026-07-07T09:33:03Z",
+      "speaker": "patient",
+      "text": "I just need to cancel it for personal reasons. Is there a fee?"
+    },
+    {
+      "timestamp": "2026-07-07T09:33:16Z",
+      "speaker": "agent",
+      "text": "You'd like to cancel your appointment with Dr. Ziggy lukovski on Tuesday, July, 14th, for personal reasons."
+    },
+    {
+      "timestamp": "2026-07-07T09:33:18Z",
+      "speaker": "patient",
+      "text": "Yes, that's correct. Is there a cancellation fee?"
+    },
+    {
+      "timestamp": "2026-07-07T09:33:29Z",
+      "speaker": "agent",
+      "text": "There's usually no cancellation fee, if you let us know in advance."
+    },
+    {
+      "timestamp": "2026-07-07T09:33:30Z",
+      "speaker": "patient",
+      "text": "That sounds good. Just to confirm, I won\u2019t be charged anything for this cancellation?"
+    },
+    {
+      "timestamp": "2026-07-07T09:33:35Z",
+      "speaker": "agent",
+      "text": "14, for"
+    },
+    {
+      "timestamp": "2026-07-07T09:33:36Z",
+      "speaker": "patient",
+      "text": "I just want to make sure I won't be charged anything for canceling. Can you confirm that?"
+    },
+    {
+      "timestamp": "2026-07-07T09:33:42Z",
+      "speaker": "agent",
+      "text": "is there anything else just to  confirm this is"
+    },
+    {
+      "timestamp": "2026-07-07T09:33:43Z",
+      "speaker": "patient",
+      "text": "I just want to confirm that my appointment is canceled and there\u2019s no fee. Can you help with that?"
+    }
+  ],
+  "recording_sid": "RE210697b43674bf3a192f8276092ffaec",
+  "recording_url": "https://api.twilio.com/2010-04-01/Accounts/AC_REDACTED/Recordings/RE210697b43674bf3a192f8276092ffaec",
+  "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA7a22ed4e39d54ae07e0b895d9409ff42/recording-CA7a22ed4e39d54ae07e0b895d9409ff42.mp3",
+  "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA7a22ed4e39d54ae07e0b895d9409ff42/transcript-CA7a22ed4e39d54ae07e0b895d9409ff42.txt",
+  "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA7a22ed4e39d54ae07e0b895d9409ff42/transcript-CA7a22ed4e39d54ae07e0b895d9409ff42.txt"
+}

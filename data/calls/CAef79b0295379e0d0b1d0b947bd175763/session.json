@@ -1,0 +1,125 @@
+{
+  "call_sid": "CAef79b0295379e0d0b1d0b947bd175763",
+  "scenario_id": "appointment_simple",
+  "destination": "+18054398008",
+  "status": "completed",
+  "created_at": "2026-07-07T09:30:15Z",
+  "updated_at": "2026-07-07T10:17:23Z",
+  "turns": [
+    {
+      "timestamp": "2026-07-07T09:30:33Z",
+      "speaker": "agent",
+      "text": "It Point Orthopedics part of pretty good AI. How may I help you today?"
+    },
+    {
+      "timestamp": "2026-07-07T09:30:33Z",
+      "speaker": "patient",
+      "text": "Hi, I want to schedule a routine check-up for next week if possible."
+    },
+    {
+      "timestamp": "2026-07-07T09:30:47Z",
+      "speaker": "agent",
+      "text": "Calling from the number we have on file. I speaking with Alex"
+    },
+    {
+      "timestamp": "2026-07-07T09:30:50Z",
+      "speaker": "patient",
+      "text": "Yes, that's me. Can we set up that check-up for next week?"
+    },
+    {
+      "timestamp": "2026-07-07T09:30:54Z",
+      "speaker": "agent",
+      "text": "Please provide your date of birth."
+    },
+    {
+      "timestamp": "2026-07-07T09:30:57Z",
+      "speaker": "patient",
+      "text": "It's June 12, 1990."
+    },
+    {
+      "timestamp": "2026-07-07T09:31:05Z",
+      "speaker": "agent",
+      "text": "I need your full date of birth to continue. Could you please tell me your date of birth?"
+    },
+    {
+      "timestamp": "2026-07-07T09:31:07Z",
+      "speaker": "patient",
+      "text": "Sure, it's June 12 1990."
+    },
+    {
+      "timestamp": "2026-07-07T09:31:21Z",
+      "speaker": "agent",
+      "text": "Do you have a preferred provider for your routine checkup?"
+    },
+    {
+      "timestamp": "2026-07-07T09:31:23Z",
+      "speaker": "patient",
+      "text": "I don't have a specific provider in mind. Can you tell me who\u2019s available?"
+    },
+    {
+      "timestamp": "2026-07-07T09:31:39Z",
+      "speaker": "agent",
+      "text": "It looks like you already have a routine checkup appointment booked if you want to reschedule or cancel that appointment I can help with that."
+    },
+    {
+      "timestamp": "2026-07-07T09:31:41Z",
+      "speaker": "patient",
+      "text": "I wasn't aware of that. Can you tell me when it is?"
+    },
+    {
+      "timestamp": "2026-07-07T09:31:49Z",
+      "speaker": "agent",
+      "text": "No problem. Would you like details about your current routine? Checkup appointment."
+    },
+    {
+      "timestamp": "2026-07-07T09:31:50Z",
+      "speaker": "patient",
+      "text": "Yes, please. What are the details?"
+    },
+    {
+      "timestamp": "2026-07-07T09:31:55Z",
+      "speaker": "agent",
+      "text": "Cancel it."
+    },
+    {
+      "timestamp": "2026-07-07T09:31:57Z",
+      "speaker": "patient",
+      "text": "I just want to schedule a new check-up for next week instead. Can we do that?"
+    },
+    {
+      "timestamp": "2026-07-07T09:32:12Z",
+      "speaker": "agent",
+      "text": "I'm unable to book a new routine, checkup since you already have 1, scheduled if you'd like I can help you reschedule your existing appointment to next week."
+    },
+    {
+      "timestamp": "2026-07-07T09:32:12Z",
+      "speaker": "patient",
+      "text": "Can you tell me the date of my existing appointment first?"
+    },
+    {
+      "timestamp": "2026-07-07T09:32:27Z",
+      "speaker": "agent",
+      "text": "I don't have access to your current appointment details but I can connect you with a team member who can provide that information."
+    },
+    {
+      "timestamp": "2026-07-07T09:32:29Z",
+      "speaker": "patient",
+      "text": "That sounds good. Can you transfer me to someone who can help?"
+    },
+    {
+      "timestamp": "2026-07-07T09:32:51Z",
+      "speaker": "agent",
+      "text": "Connecting you to a representative please. Wait hello you've reached the pretty good. AI test line goodbye."
+    },
+    {
+      "timestamp": "2026-07-07T09:32:51Z",
+      "speaker": "patient",
+      "text": "Wait, what? I was just trying to schedule a check-up."
+    }
+  ],
+  "recording_sid": "REdc0c7a31168860f5637513ea5f9b8b8c",
+  "recording_url": "https://api.twilio.com/2010-04-01/Accounts/AC_REDACTED/Recordings/REdc0c7a31168860f5637513ea5f9b8b8c",
+  "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAef79b0295379e0d0b1d0b947bd175763/recording-CAef79b0295379e0d0b1d0b947bd175763.mp3",
+  "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAef79b0295379e0d0b1d0b947bd175763/transcript-CAef79b0295379e0d0b1d0b947bd175763.txt",
+  "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAef79b0295379e0d0b1d0b947bd175763/transcript-CAef79b0295379e0d0b1d0b947bd175763.txt"
+}

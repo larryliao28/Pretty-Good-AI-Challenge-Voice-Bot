@@ -1,0 +1,32 @@
+[00:00.00 - 00:03.20] SEGMENT 1: This call may be recorded for quality and training purposes.
+[00:03.20 - 00:06.60] SEGMENT 2: Para Español, oprima el 2.
+[00:06.60 - 00:11.52] SEGMENT 3: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:11.52 - 00:13.00] SEGMENT 4: How may I help you today?
+[00:23.00 - 00:26.00] SEGMENT 5: Hello, this is Pivot Point Orthopedics.
+[00:26.00 - 00:27.00] SEGMENT 6: How can I help you today?
+[00:31.00 - 00:34.00] SEGMENT 7: I need an appointment sometime soon.
+[00:34.00 - 00:37.00] SEGMENT 8: Maybe early or late. I am not sure.
+[00:40.00 - 00:43.00] SEGMENT 9: I see you're calling from the number we have on file.
+[00:43.00 - 00:44.00] SEGMENT 10: Am I speaking with Alex?
+[00:47.00 - 00:49.00] SEGMENT 11: Yes, that's me.
+[00:49.00 - 00:51.00] SEGMENT 12: Please provide your date of birth.
+[00:53.00 - 00:54.00] SEGMENT 13: It's June 12th.
+[00:54.00 - 00:56.00] SEGMENT 14: I need your date of birth to look up your information.
+[00:56.00 - 00:58.00] SEGMENT 15: Could you please tell me your date of birth?
+[01:00.00 - 01:07.00] SEGMENT 16: Sure, it's June 12th, 1990.
+[01:11.00 - 01:12.00] SEGMENT 17: Thanks.
+[01:12.00 - 01:14.00] SEGMENT 18: Can you tell me the reason for your visit?
+[01:14.00 - 01:20.00] SEGMENT 19: For example, is this for a new patient consultation, a follow-up, a routine check-up, or something urgent?
+[01:25.00 - 01:29.00] SEGMENT 20: It's for a follow-up, but I am not sure if it's urgent or not.
+[01:31.00 - 01:34.00] SEGMENT 21: Just to confirm, you'd like to book a follow-up consultation?
+[01:34.00 - 01:35.00] SEGMENT 22: Is that correct?
+[01:40.00 - 01:45.00] SEGMENT 23: Yes, but I might need to discuss some urgent concerns during the visit.
+[01:49.00 - 01:52.00] SEGMENT 24: We have several openings for follow-up consultations this week.
+[01:52.00 - 01:57.00] SEGMENT 25: Do you have a preferred provider, or would you like to see your primary provider, Dr. Doogie Houser?
+[02:00.00 - 02:03.00] SEGMENT 26: I am not sure about Dr. Houser.
+[02:03.00 - 02:06.00] SEGMENT 27: Can you tell me more about their availability?
+[02:06.00 - 02:07.00] SEGMENT 28: No problem.
+[02:07.00 - 02:12.00] SEGMENT 29: We also have openings with Carl Mentz, PT, and Kelly Noble, MD.
+[02:12.00 - 02:17.00] SEGMENT 30: Would you like to see one of them, or should I list the earliest available times with any provider?
+[02:22.00 - 02:27.00] SEGMENT 31: Okay, but can you confirm if Kelly Noble is a specialist in anything specific?
+[02:27.00 - 02:29.00] SEGMENT 32: I do not...

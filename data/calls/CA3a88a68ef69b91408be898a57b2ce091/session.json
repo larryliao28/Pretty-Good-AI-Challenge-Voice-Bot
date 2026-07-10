@@ -1,0 +1,90 @@
+{
+  "call_sid": "CA3a88a68ef69b91408be898a57b2ce091",
+  "scenario_id": "hours_and_location",
+  "destination": "+18054398008",
+  "status": "completed",
+  "created_at": "2026-07-07T09:48:04Z",
+  "updated_at": "2026-07-07T10:18:52Z",
+  "turns": [
+    {
+      "timestamp": "2026-07-07T09:48:22Z",
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics part of pretty good AI. How may I help you today?"
+    },
+    {
+      "timestamp": "2026-07-07T09:48:22Z",
+      "speaker": "patient",
+      "text": "Hi, can you tell me your office hours and where you're located?"
+    },
+    {
+      "timestamp": "2026-07-07T09:48:45Z",
+      "speaker": "agent",
+      "text": "Our clinic is open Monday through Friday hours are 9:00 a.m. to 4:00 p.m. on Monday, Tuesday and Thursday, 12:00 p.m. to 7:00 p.m. on, Wednesday and 9 a.m. to 12:00 p.m. on Friday."
+    },
+    {
+      "timestamp": "2026-07-07T09:48:47Z",
+      "speaker": "patient",
+      "text": "Thanks! Do you have a second location?"
+    },
+    {
+      "timestamp": "2026-07-07T09:48:59Z",
+      "speaker": "agent",
+      "text": "We only have 1 location. 1 2, 3 4."
+    },
+    {
+      "timestamp": "2026-07-07T09:49:01Z",
+      "speaker": "patient",
+      "text": "Is that address correct? I didn't catch it all."
+    },
+    {
+      "timestamp": "2026-07-07T09:49:06Z",
+      "speaker": "agent",
+      "text": "If you need directions."
+    },
+    {
+      "timestamp": "2026-07-07T09:49:07Z",
+      "speaker": "patient",
+      "text": "I just want to confirm the address of your location. Can you repeat it?"
+    },
+    {
+      "timestamp": "2026-07-07T09:49:21Z",
+      "speaker": "agent",
+      "text": "Our address is 1234. Recovery. Way. Suite, 200 Austin."
+    },
+    {
+      "timestamp": "2026-07-07T09:49:24Z",
+      "speaker": "patient",
+      "text": "Got it, thanks! Just to clarify, is that in Austin, Texas?"
+    },
+    {
+      "timestamp": "2026-07-07T09:49:40Z",
+      "speaker": "agent",
+      "text": "Yes, that's in Austin, Texas. Let me know if you need anything else."
+    },
+    {
+      "timestamp": "2026-07-07T09:49:43Z",
+      "speaker": "patient",
+      "text": "No, that's all for now. Thanks for your help!"
+    },
+    {
+      "timestamp": "2026-07-07T09:49:56Z",
+      "speaker": "agent",
+      "text": "You're welcome. Have a great day."
+    },
+    {
+      "timestamp": "2026-07-07T09:49:57Z",
+      "speaker": "patient",
+      "text": "You too! Bye!"
+    },
+    {
+      "timestamp": "2026-07-07T09:49:58Z",
+      "speaker": "patient",
+      "text": "Goodbye!"
+    }
+  ],
+  "recording_sid": "RE0f3cccb77d512f70f6db6f8d79c77821",
+  "recording_url": "https://api.twilio.com/2010-04-01/Accounts/AC_REDACTED/Recordings/RE0f3cccb77d512f70f6db6f8d79c77821",
+  "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA3a88a68ef69b91408be898a57b2ce091/recording-CA3a88a68ef69b91408be898a57b2ce091.mp3",
+  "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA3a88a68ef69b91408be898a57b2ce091/transcript-CA3a88a68ef69b91408be898a57b2ce091.txt",
+  "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA3a88a68ef69b91408be898a57b2ce091/transcript-CA3a88a68ef69b91408be898a57b2ce091.txt"
+}

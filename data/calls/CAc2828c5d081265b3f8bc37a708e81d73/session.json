@@ -1,0 +1,130 @@
+{
+  "call_sid": "CAc2828c5d081265b3f8bc37a708e81d73",
+  "scenario_id": "billing_question",
+  "destination": "+18054398008",
+  "status": "completed",
+  "created_at": "2026-07-07T10:06:10Z",
+  "updated_at": "2026-07-07T10:18:05Z",
+  "turns": [
+    {
+      "timestamp": "2026-07-07T10:06:29Z",
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics Park of pretty good AI how may I help you today?"
+    },
+    {
+      "timestamp": "2026-07-07T10:06:29Z",
+      "speaker": "patient",
+      "text": "Hi, I got a bill that is higher than expected. Can you explain what the charges are for?"
+    },
+    {
+      "timestamp": "2026-07-07T10:06:44Z",
+      "speaker": "agent",
+      "text": "I see you're calling from the number we have on file. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-07-07T10:06:46Z",
+      "speaker": "patient",
+      "text": "Yes, that's me. Can you help me understand the unexpected charges on my bill?"
+    },
+    {
+      "timestamp": "2026-07-07T10:06:53Z",
+      "speaker": "agent",
+      "text": "Please provide your date of birth."
+    },
+    {
+      "timestamp": "2026-07-07T10:06:55Z",
+      "speaker": "patient",
+      "text": "It's June 12, 1990. What can you tell me about the bill?"
+    },
+    {
+      "timestamp": "2026-07-07T10:06:59Z",
+      "speaker": "agent",
+      "text": "Tell me your full date of birth."
+    },
+    {
+      "timestamp": "2026-07-07T10:07:01Z",
+      "speaker": "patient",
+      "text": "June 12 1990. Can you explain the charges on my bill?"
+    },
+    {
+      "timestamp": "2026-07-07T10:07:19Z",
+      "speaker": "agent",
+      "text": "Let me document your billing concern for the clinic team to review."
+    },
+    {
+      "timestamp": "2026-07-07T10:07:21Z",
+      "speaker": "patient",
+      "text": "I appreciate that, but can you give me a plain-language explanation of the charges while I wait?"
+    },
+    {
+      "timestamp": "2026-07-07T10:07:42Z",
+      "speaker": "agent",
+      "text": "I don't have access to detailed billing breakdowns but the clinic team will review your case and follow up with a clear explanation as soon as possible. Is there anything else I can help you with right now?"
+    },
+    {
+      "timestamp": "2026-07-07T10:07:44Z",
+      "speaker": "patient",
+      "text": "Okay, thanks for that. How long does it usually take for the clinic team to follow up?"
+    },
+    {
+      "timestamp": "2026-07-07T10:08:01Z",
+      "speaker": "agent",
+      "text": "The clit team usually follows up. As soon as they can often within 1 to 2 business days, if you need anything else, just let me know."
+    },
+    {
+      "timestamp": "2026-07-07T10:08:03Z",
+      "speaker": "patient",
+      "text": "Thanks for the info. Can you confirm if the clinic team will reach out via phone or email?"
+    },
+    {
+      "timestamp": "2026-07-07T10:08:18Z",
+      "speaker": "agent",
+      "text": "The claim typically reaches out by phone, but they may also use email as needed."
+    },
+    {
+      "timestamp": "2026-07-07T10:08:19Z",
+      "speaker": "patient",
+      "text": "Got it. I appreciate your help! That's all for now."
+    },
+    {
+      "timestamp": "2026-07-07T10:08:24Z",
+      "speaker": "agent",
+      "text": "me know, and I can"
+    },
+    {
+      "timestamp": "2026-07-07T10:08:25Z",
+      "speaker": "patient",
+      "text": "It seems like that got cut off. Is there anything else you wanted to add?"
+    },
+    {
+      "timestamp": "2026-07-07T10:08:30Z",
+      "speaker": "agent",
+      "text": "Feel free to ask."
+    },
+    {
+      "timestamp": "2026-07-07T10:08:31Z",
+      "speaker": "patient",
+      "text": "I think I'm all set for now. Thanks for your help!"
+    },
+    {
+      "timestamp": "2026-07-07T10:08:43Z",
+      "speaker": "agent",
+      "text": "You're welcome. Have a great day Alex."
+    },
+    {
+      "timestamp": "2026-07-07T10:08:44Z",
+      "speaker": "patient",
+      "text": "You too!"
+    },
+    {
+      "timestamp": "2026-07-07T10:08:45Z",
+      "speaker": "patient",
+      "text": "Goodbye!"
+    }
+  ],
+  "recording_sid": "RE7eaa72bae3b624fb28f75eeedd92bd0a",
+  "recording_url": "https://api.twilio.com/2010-04-01/Accounts/AC_REDACTED/Recordings/RE7eaa72bae3b624fb28f75eeedd92bd0a",
+  "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAc2828c5d081265b3f8bc37a708e81d73/recording-CAc2828c5d081265b3f8bc37a708e81d73.mp3",
+  "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAc2828c5d081265b3f8bc37a708e81d73/transcript-CAc2828c5d081265b3f8bc37a708e81d73.txt",
+  "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAc2828c5d081265b3f8bc37a708e81d73/transcript-CAc2828c5d081265b3f8bc37a708e81d73.txt"
+}

@@ -1,0 +1,41 @@
+[00:00.00 - 00:03.24] SEGMENT 1: This call may be recorded for quality and training purposes.
+[00:03.24 - 00:06.48] SEGMENT 2: Para espanol, oprima el 2.
+[00:06.48 - 00:10.48] SEGMENT 3: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10.48 - 00:13.92] SEGMENT 4: How may I help you today?
+[00:13.92 - 00:17.60] SEGMENT 5: Hi, I was advised to start physical therapy.
+[00:17.60 - 00:19.08] SEGMENT 6: Do you have evening appointments?
+[00:25.24 - 00:27.64] SEGMENT 7: We do offer evening appointments on Wednesdays
+[00:27.68 - 00:31.12] SEGMENT 8: with availability from 12 PM to 7 PM.
+[00:31.12 - 00:33.24] SEGMENT 9: Would you like to schedule a physical therapy session
+[00:33.24 - 00:34.20] SEGMENT 10: on a Wednesday evening?
+[00:39.04 - 00:40.12] SEGMENT 11: Got it.
+[00:40.12 - 00:42.52] SEGMENT 12: What physical therapy options do you offer?
+[00:45.96 - 00:47.68] SEGMENT 13: We offer physical therapy sessions
+[00:47.68 - 00:50.92] SEGMENT 14: focused on recovery after injury or surgery,
+[00:50.92 - 00:54.48] SEGMENT 15: improving strength, mobility, and managing pain.
+[00:54.48 - 00:58.44] SEGMENT 16: Our physical therapists, Lynn Anderson and Carl Mantz,
+[00:58.44 - 00:58.96] SEGMENT 17: provide.
+[01:03.64 - 01:06.52] SEGMENT 18: Could you tell me more about those specific programs
+[01:06.52 - 01:07.56] SEGMENT 19: for sports injuries?
+[01:13.80 - 01:16.56] SEGMENT 20: Yes, we offer physical therapy programs specifically
+[01:16.56 - 01:18.12] SEGMENT 21: for sports injuries.
+[01:18.12 - 01:20.40] SEGMENT 22: Our therapists design personalized plans
+[01:20.40 - 01:20.96] SEGMENT 23: to help you.
+[01:25.48 - 01:26.48] SEGMENT 24: Can you give me?
+[01:32.48 - 01:33.48] SEGMENT 25: Our physical therapists.
+[01:38.48 - 01:40.72] SEGMENT 26: What kind of treatments or exercises
+[01:40.72 - 01:42.88] SEGMENT 27: would the physical therapist use in those plans?
+[01:46.24 - 01:48.00] SEGMENT 28: Our physical therapists use a mix
+[01:48.00 - 01:51.36] SEGMENT 29: of treatments like targeted exercises, stretching,
+[01:51.48 - 01:54.68] SEGMENT 30: strength training, balance work, and manual therapy.
+[01:54.68 - 01:57.60] SEGMENT 31: They may also use techniques such as joint mobilization,
+[01:57.60 - 02:00.44] SEGMENT 32: soft tissue massage, and guided movement drills.
+[02:00.44 - 02:02.76] SEGMENT 33: Each plan is customized to your injury and goal.
+[02:02.76 - 02:05.24] SEGMENT 34: That sounds comprehensive.
+[02:05.24 - 02:07.92] SEGMENT 35: Do you have evening appointments available for these sessions?
+[02:10.32 - 02:12.28] SEGMENT 36: Yes, we have evening appointments
+[02:12.28 - 02:16.40] SEGMENT 37: for physical therapy on Wednesdays from 12 PM to 7 PM.
+[02:16.40 - 02:18.72] SEGMENT 38: Would you like to book a session during that time?
+[02:18.72 - 02:23.76] SEGMENT 39: Just to clarify, did you mean Wednesday from 12 PM to 7 PM,
+[02:23.76 - 02:25.24] SEGMENT 40: or is it actually in the evening?
+[02:28.40 - 02:29.96] SEGMENT 41: Yes.

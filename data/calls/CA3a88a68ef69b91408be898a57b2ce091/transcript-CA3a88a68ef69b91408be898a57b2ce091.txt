@@ -1,0 +1,24 @@
+[00:00.00 - 00:03.22] SEGMENT 1: This call may be recorded for quality and training purposes.
+[00:03.78 - 00:05.72] SEGMENT 2: Para Español, oprima el 2.
+[00:06.54 - 00:10.50] SEGMENT 3: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10.86 - 00:11.82] SEGMENT 4: How may I help you today?
+[00:14.16 - 00:18.12] SEGMENT 5: Hi. Can you tell me your office hours and where you're located?
+[00:19.70 - 00:26.00] SEGMENT 6: Our clinic is open Monday through Friday.
+[00:26.24 - 00:29.72] SEGMENT 7: Hours are 9 a.m. to 4 p.m. on Monday, Tuesday, and Thursday.
+[00:30.00 - 00:35.16] SEGMENT 8: 12 p.m. to 7 p.m. on Wednesday, and 9 a.m. to 12 p.m. on Friday.
+[00:35.66 - 00:38.16] SEGMENT 9: We're located at 1234 Recovery Way.
+[00:38.16 - 00:40.80] SEGMENT 10: Thanks. Do you have a second location?
+[00:45.44 - 00:51.88] SEGMENT 11: We only have one location, 1234 Recovery Way, Suite 200, Austin.
+[00:52.16 - 00:53.16] SEGMENT 12: If you need direction.
+[00:53.16 - 01:00.80] SEGMENT 13: I just want to confirm the address of your location.
+[01:01.52 - 01:02.48] SEGMENT 14: Can you repeat it?
+[01:02.48 - 01:11.68] SEGMENT 15: Our address is 1234 Recovery Way, Suite 200, Austin.
+[01:12.10 - 01:14.60] SEGMENT 16: If you need it again or want more details, just let me know.
+[01:15.38 - 01:16.52] SEGMENT 17: Got it. Thanks.
+[01:17.20 - 01:20.16] SEGMENT 18: Just to clarify, is that in Austin, Texas?
+[01:20.16 - 01:26.30] SEGMENT 19: Yes, that's in Austin, Texas.
+[01:26.84 - 01:28.10] SEGMENT 20: Let me know if you need anything else.
+[01:34.82 - 01:36.48] SEGMENT 21: No. That's all for now.
+[01:37.12 - 01:38.06] SEGMENT 22: Thanks for your help.
+[01:39.68 - 01:42.64] SEGMENT 23: You're welcome.
+[01:42.88 - 01:43.64] SEGMENT 24: Have a great day.

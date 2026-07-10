@@ -1,0 +1,125 @@
+{
+  "call_sid": "CAac2b2d35b48079766a72164bfbc4dc4b",
+  "scenario_id": "med_refill",
+  "destination": "+18054398008",
+  "status": "completed",
+  "created_at": "2026-07-07T09:44:57Z",
+  "updated_at": "2026-07-07T10:18:28Z",
+  "turns": [
+    {
+      "timestamp": "2026-07-07T09:45:17Z",
+      "speaker": "agent",
+      "text": "For calling Pivot Point Orthopedics part of pretty good AI. How may I help you today?"
+    },
+    {
+      "timestamp": "2026-07-07T09:45:17Z",
+      "speaker": "patient",
+      "text": "Hi, I need a refill for my medication and wanted to ask how long it takes."
+    },
+    {
+      "timestamp": "2026-07-07T09:45:35Z",
+      "speaker": "agent",
+      "text": "To see, you're calling from the number we have on file. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-07-07T09:45:37Z",
+      "speaker": "patient",
+      "text": "Yes, that's me."
+    },
+    {
+      "timestamp": "2026-07-07T09:45:42Z",
+      "speaker": "agent",
+      "text": "Please provide your date of birth."
+    },
+    {
+      "timestamp": "2026-07-07T09:45:43Z",
+      "speaker": "patient",
+      "text": "It's June 12, 1990."
+    },
+    {
+      "timestamp": "2026-07-07T09:45:51Z",
+      "speaker": "agent",
+      "text": "I need your full date of birth to continue. Could you please tell me your date of birth?"
+    },
+    {
+      "timestamp": "2026-07-07T09:45:53Z",
+      "speaker": "patient",
+      "text": "Sure, it's June 12 1990."
+    },
+    {
+      "timestamp": "2026-07-07T09:46:06Z",
+      "speaker": "patient",
+      "text": "I\u2019d like to request a refill for my medication."
+    },
+    {
+      "timestamp": "2026-07-07T09:46:11Z",
+      "speaker": "agent",
+      "text": "Match our records."
+    },
+    {
+      "timestamp": "2026-07-07T09:46:12Z",
+      "speaker": "patient",
+      "text": "Okay, the medication I need refilled is for my ongoing treatment."
+    },
+    {
+      "timestamp": "2026-07-07T09:46:18Z",
+      "speaker": "agent",
+      "text": "I don't see any."
+    },
+    {
+      "timestamp": "2026-07-07T09:46:19Z",
+      "speaker": "patient",
+      "text": "Could you double-check? I\u2019ve been on it for a while now."
+    },
+    {
+      "timestamp": "2026-07-07T09:46:27Z",
+      "speaker": "agent",
+      "text": "That can take your time. Let me know if you find any details or if you have other questions."
+    },
+    {
+      "timestamp": "2026-07-07T09:46:29Z",
+      "speaker": "patient",
+      "text": "I really need that refill. Can you confirm if you have my prescription history?"
+    },
+    {
+      "timestamp": "2026-07-07T09:46:49Z",
+      "speaker": "agent",
+      "text": "I checked your chart but I don't see any medications listed for refill. If you believe there should be something on file, I can connect you to our patient support team for further help."
+    },
+    {
+      "timestamp": "2026-07-07T09:46:51Z",
+      "speaker": "patient",
+      "text": "Yes, please connect me to the patient support team. I\u2019d like to resolve this."
+    },
+    {
+      "timestamp": "2026-07-07T09:46:57Z",
+      "speaker": "agent",
+      "text": "Connecting you to a representative."
+    },
+    {
+      "timestamp": "2026-07-07T09:46:59Z",
+      "speaker": "patient",
+      "text": "Thank you!"
+    },
+    {
+      "timestamp": "2026-07-07T09:47:06Z",
+      "speaker": "agent",
+      "text": "You reached the pretty good. AI test line, goodbye."
+    },
+    {
+      "timestamp": "2026-07-07T09:47:07Z",
+      "speaker": "patient",
+      "text": "Wait, I still need help with my medication!"
+    },
+    {
+      "timestamp": "2026-07-07T09:47:09Z",
+      "speaker": "patient",
+      "text": "Goodbye!"
+    }
+  ],
+  "recording_sid": "RE6d9c4a4c1fa8967ea2bc23d3fbc856da",
+  "recording_url": "https://api.twilio.com/2010-04-01/Accounts/AC_REDACTED/Recordings/RE6d9c4a4c1fa8967ea2bc23d3fbc856da",
+  "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAac2b2d35b48079766a72164bfbc4dc4b/recording-CAac2b2d35b48079766a72164bfbc4dc4b.mp3",
+  "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAac2b2d35b48079766a72164bfbc4dc4b/transcript-CAac2b2d35b48079766a72164bfbc4dc4b.txt",
+  "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CAac2b2d35b48079766a72164bfbc4dc4b/transcript-CAac2b2d35b48079766a72164bfbc4dc4b.txt"
+}

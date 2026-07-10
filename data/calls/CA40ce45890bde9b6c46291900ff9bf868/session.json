@@ -1,0 +1,115 @@
+{
+  "call_sid": "CA40ce45890bde9b6c46291900ff9bf868",
+  "scenario_id": "insurance",
+  "destination": "+18054398008",
+  "status": "completed",
+  "created_at": "2026-07-07T09:50:51Z",
+  "updated_at": "2026-07-07T10:17:52Z",
+  "turns": [
+    {
+      "timestamp": "2026-07-07T09:51:09Z",
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics part of pretty good AI. How may I help you today?"
+    },
+    {
+      "timestamp": "2026-07-07T09:51:09Z",
+      "speaker": "patient",
+      "text": "Hi, I wanted to check if you accept PPO insurance and whether I need a referral."
+    },
+    {
+      "timestamp": "2026-07-07T09:51:34Z",
+      "speaker": "agent",
+      "text": "We do accept most insurance plans, including many TPO options. Some PPO plans, do not require referral, but it can depend on your specific insurance. Would you like to check or update your insurance details on file?"
+    },
+    {
+      "timestamp": "2026-07-07T09:51:36Z",
+      "speaker": "patient",
+      "text": "Could you clarify which PPO plans you accept?"
+    },
+    {
+      "timestamp": "2026-07-07T09:51:51Z",
+      "speaker": "agent",
+      "text": "I don't have a full list of accepted TPO plans, but Pivot Point Orthopedics works with most major PPO insurance providers."
+    },
+    {
+      "timestamp": "2026-07-07T09:51:53Z",
+      "speaker": "patient",
+      "text": "Okay, but do you know if my specific plan requires a referral?"
+    },
+    {
+      "timestamp": "2026-07-07T09:51:58Z",
+      "speaker": "agent",
+      "text": "Connect you with our Clinic."
+    },
+    {
+      "timestamp": "2026-07-07T09:52:00Z",
+      "speaker": "patient",
+      "text": "Thanks, but can you tell me if I need a referral before I get connected?"
+    },
+    {
+      "timestamp": "2026-07-07T09:52:05Z",
+      "speaker": "agent",
+      "text": "Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-07-07T09:52:07Z",
+      "speaker": "patient",
+      "text": "Yes, that's me."
+    },
+    {
+      "timestamp": "2026-07-07T09:52:13Z",
+      "speaker": "agent",
+      "text": "Please provide your date of birth."
+    },
+    {
+      "timestamp": "2026-07-07T09:52:15Z",
+      "speaker": "patient",
+      "text": "June 12 1990."
+    },
+    {
+      "timestamp": "2026-07-07T09:52:31Z",
+      "speaker": "agent",
+      "text": "The birthday doesn't match our records but for demo purposes, I'll accept it. Would you like me to check your insurance details on file or help you update them?"
+    },
+    {
+      "timestamp": "2026-07-07T09:52:33Z",
+      "speaker": "patient",
+      "text": "I\u2019d like to know if I need a referral for my PPO plan first."
+    },
+    {
+      "timestamp": "2026-07-07T09:52:54Z",
+      "speaker": "agent",
+      "text": "You don't have any insurance on file with us yet. If you share your PPO Insurance details, I can check if a referral is needed for your specific plan. Would you like to add your insurance now?"
+    },
+    {
+      "timestamp": "2026-07-07T09:52:57Z",
+      "speaker": "patient",
+      "text": "I don\u2019t have the details right now. Can you tell me if most PPO plans typically need a referral?"
+    },
+    {
+      "timestamp": "2026-07-07T09:53:18Z",
+      "speaker": "agent",
+      "text": "Most PPO plans do not require a referral to see a specialist, but there are exceptions depending on the plan."
+    },
+    {
+      "timestamp": "2026-07-07T09:53:21Z",
+      "speaker": "patient",
+      "text": "Got it, thanks! Does your office accept PPO plans?"
+    },
+    {
+      "timestamp": "2026-07-07T09:53:27Z",
+      "speaker": "agent",
+      "text": "if  you're welcome, if"
+    },
+    {
+      "timestamp": "2026-07-07T09:53:28Z",
+      "speaker": "patient",
+      "text": "Could you clarify if you accept PPO plans?"
+    }
+  ],
+  "recording_sid": "RE143e68bdc8a9c3c736716c75fd36d317",
+  "recording_url": "https://api.twilio.com/2010-04-01/Accounts/AC_REDACTED/Recordings/RE143e68bdc8a9c3c736716c75fd36d317",
+  "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA40ce45890bde9b6c46291900ff9bf868/recording-CA40ce45890bde9b6c46291900ff9bf868.mp3",
+  "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA40ce45890bde9b6c46291900ff9bf868/transcript-CA40ce45890bde9b6c46291900ff9bf868.txt",
+  "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA40ce45890bde9b6c46291900ff9bf868/transcript-CA40ce45890bde9b6c46291900ff9bf868.txt"
+}

@@ -1,0 +1,125 @@
+{
+  "call_sid": "CA309161b166b140b17684a6b4afd7b2d3",
+  "scenario_id": "edge_interruption",
+  "destination": "+18054398008",
+  "status": "completed",
+  "created_at": "2026-07-07T09:39:41Z",
+  "updated_at": "2026-07-07T10:17:30Z",
+  "turns": [
+    {
+      "timestamp": "2026-07-07T09:39:58Z",
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics. Part of pretty good. AI."
+    },
+    {
+      "timestamp": "2026-07-07T09:39:58Z",
+      "speaker": "patient",
+      "text": "Sorry to jump in, but what is the soonest appointment you have?"
+    },
+    {
+      "timestamp": "2026-07-07T09:40:16Z",
+      "speaker": "agent",
+      "text": "I see you're calling from the number we have on file. Am I speaking with Alex?"
+    },
+    {
+      "timestamp": "2026-07-07T09:40:17Z",
+      "speaker": "patient",
+      "text": "Yes, that's me. Can you tell me when the next available visit is?"
+    },
+    {
+      "timestamp": "2026-07-07T09:40:25Z",
+      "speaker": "agent",
+      "text": "Please provide your date of birth."
+    },
+    {
+      "timestamp": "2026-07-07T09:40:28Z",
+      "speaker": "patient",
+      "text": "It's June 12, 1990. What's the soonest appointment you have?"
+    },
+    {
+      "timestamp": "2026-07-07T09:40:47Z",
+      "speaker": "agent",
+      "text": "Alex, can you tell me, can you tell me the reason for your visit? For example, is this for a new patient consultation, a follow-up or routine office visit or something urgent?"
+    },
+    {
+      "timestamp": "2026-07-07T09:40:49Z",
+      "speaker": "patient",
+      "text": "It's for a follow-up visit. When's the earliest I can come in?"
+    },
+    {
+      "timestamp": "2026-07-07T09:41:07Z",
+      "speaker": "agent",
+      "text": "Let me check the soonest available appointment for your follow-up visit as soon as follow-up appointment is Wednesday, July 8th. Would you like a morning or afternoon time?"
+    },
+    {
+      "timestamp": "2026-07-07T09:41:08Z",
+      "speaker": "patient",
+      "text": "I think you might have the date wrong. Can you confirm if that's for July 8th, 2024?"
+    },
+    {
+      "timestamp": "2026-07-07T09:41:20Z",
+      "speaker": "agent",
+      "text": "The next available appointments are actually on Wednesday, July 8th. Today is Tuesday, July 7th."
+    },
+    {
+      "timestamp": "2026-07-07T09:41:21Z",
+      "speaker": "patient",
+      "text": "I think there's a mix-up. Today is actually October 3rd. Can you check for the soonest appointment again?"
+    },
+    {
+      "timestamp": "2026-07-07T09:41:26Z",
+      "speaker": "agent",
+      "text": "Or do you prefer a different day?"
+    },
+    {
+      "timestamp": "2026-07-07T09:41:29Z",
+      "speaker": "patient",
+      "text": "I just want to know the soonest appointment available. Can you check for me?"
+    },
+    {
+      "timestamp": "2026-07-07T09:41:40Z",
+      "speaker": "agent",
+      "text": "the students available appointment is Wednesday, July 8th at 10:00 a.m."
+    },
+    {
+      "timestamp": "2026-07-07T09:41:41Z",
+      "speaker": "patient",
+      "text": "I think there's still a mistake with the date. Can you confirm the soonest appointment in October?"
+    },
+    {
+      "timestamp": "2026-07-07T09:41:50Z",
+      "speaker": "agent",
+      "text": "Today is Tuesday, July 7th."
+    },
+    {
+      "timestamp": "2026-07-07T09:41:51Z",
+      "speaker": "patient",
+      "text": "I believe today is October 3rd. Can you check for an appointment this month?"
+    },
+    {
+      "timestamp": "2026-07-07T09:41:58Z",
+      "speaker": "agent",
+      "text": "Tomorrow, Wednesday, July 8th. Would you like to book the 10:00 a.m. slot or do you want a different time?"
+    },
+    {
+      "timestamp": "2026-07-07T09:42:00Z",
+      "speaker": "patient",
+      "text": "I really think there's a misunderstanding with the date. Can you please check for an appointment in October?"
+    },
+    {
+      "timestamp": "2026-07-07T09:42:16Z",
+      "speaker": "agent",
+      "text": "Thanks for pointing that out to clarify. Today is Tuesday, July, 7th, and the soonest appointment. I see is for Wednesday, July  8th,"
+    },
+    {
+      "timestamp": "2026-07-07T09:42:19Z",
+      "speaker": "patient",
+      "text": "I appreciate your help, but I still think today is October 3rd. Can you look for an appointment in October?"
+    }
+  ],
+  "recording_sid": "RE31c16763dd5eddc2620c35921aeacb89",
+  "recording_url": "https://api.twilio.com/2010-04-01/Accounts/AC_REDACTED/Recordings/RE31c16763dd5eddc2620c35921aeacb89",
+  "recording_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA309161b166b140b17684a6b4afd7b2d3/recording-CA309161b166b140b17684a6b4afd7b2d3.mp3",
+  "transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA309161b166b140b17684a6b4afd7b2d3/transcript-CA309161b166b140b17684a6b4afd7b2d3.txt",
+  "audio_transcript_file": "/Users/lilyliao/Documents/prettyGoodAI Challenge/data/calls/CA309161b166b140b17684a6b4afd7b2d3/transcript-CA309161b166b140b17684a6b4afd7b2d3.txt"
+}
